@@ -422,7 +422,7 @@
     },
     "outline": [
       {
-        "module": "1.	Setting up a Docker Development Environment",
+        "module": "1. Setting up a Docker Development Environment",
         "materi": "-Technical requirements. -Setting up your Docker development environment. -What differences to watch out for between OSes"
       },
       {
@@ -556,7 +556,7 @@
     },
     "outline": [
       {
-        "module": "1.	 Running Linux in a Virtual Environment",
+        "module": "1. Running Linux in a Virtual Environment",
         "materi": "-Running Linux in a Virtual Environment. -Looking at the threat landscape. -Why do security breaches happen? -Keeping up with security news. -Differences between physical, virtual, and cloud setups. -Introducing VirtualBox and Cygwin. -Keeping the Linux systems updated."
       },
       {
