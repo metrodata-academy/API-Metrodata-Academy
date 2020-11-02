@@ -1,0 +1,56 @@
+{
+    "data": [
+        {
+            "name": "Endriko Juan Candra",
+            "quote":
+                "Selama saya magang di MII, Saya sebagai anak SI yang masuk kedalam Application Development Division. mendapatkan ilmu pemrograman yang lebih dalam lagi dari yang saya dapat didalam lingkungan kampus. tidak hanya ilmu pemrograman, saya juga diajarkan bagaimana cara bekerja dalam satu tim, menjadi sebuah component yang sama sama bekerja untuk memenuhi tujuan yang sama. dengan rasa kebersamaan yang sincere, Saya dianggap seperti layaknya anggota keluarga dalam PT Mitra Integrasi Informatika ini. dengan dimikian, meskipun saya banyak kekurangan dalam bidang TI, saya dituntun untuk melewati batasan diri saya yang awalnya hanya seorang Murid SI biasa",
+            "campus": "Kwik Kian Gie School Of Business",
+            "major": "Sistem Informasi",
+            "image": "https://i.ibb.co/fS49SJZ/IMG-20190507-1842281.jpg"
+        },
+        {
+            "name": "Siddharta Putra",
+            "quote":
+                "Program magang ini memberikan saya kesempatan untuk berkontribusi dan mempelajari banyak hal tentang bagaimana bekerja di dalam dunia IT, saya juga banyak belajar dari rekan-rekan yang memiliki keahlian di bidangnya masing masing",
+            "campus": "Kwik Kian Gie School Of Business",
+            "major": "Sistem Informasi",
+            "image": "https://i.ibb.co/mXHy0v6/rsz-1image0.jpg"
+        },
+        {
+            "name": "Alexander",
+            "quote": "Awal magang di MII cukup menakutkan dikarenakan saya sendiri tidak mahir menggunakan bahasa pemrograman Java. Walaupun begitu di MII tetap mengajarkan dari dasar sehingga menjadi ilmu baru bagi saya. selain itu mentor dan rekan senior di MII sangat friendly dan membantu dalam kegiatan magang saya. walau kadang saya banyak kesalahan, mentor saya tetap memberikan bimbingan dan solusi.",
+            "campus": "Kwik Kian Gie School Of Business",
+            "major": "Sistem Informasi",
+            "image": "https://i.ibb.co/LQsLWnk/image001.jpg"
+        },
+        {
+            "name": "Mulya Saptono",
+            "quote":
+                "Selama saya magang di MII, Saya sebagai anak SI yang masuk kedalam Application Development Division. mendapatkan ilmu pemrograman yang lebih dalam lagi dari yang saya dapat didalam lingkungan kampus. tidak hanya ilmu pemrograman, saya juga diajarkan bagaimana cara bekerja dalam satu tim, menjadi sebuah component yang sama sama bekerja untuk memenuhi tujuan yang sama. dengan rasa kebersamaan yang sincere, Saya dianggap seperti layaknya anggota keluarga dalam PT Mitra Integrasi Informatika ini. dengan dimikian, meskipun saya banyak kekurangan dalam bidang TI, saya dituntun untuk melewati batasan diri saya yang awalnya hanya seorang Murid SI biasa",
+            "campus": "Universitas Kristen Satya Wacana",
+            "major": "Teknik Informatika",
+            "image": "https://randomuser.me/api/portraits/men/65.jpg"
+        },
+        {
+            "name": "Ezra Inti Prasetya",
+            "quote": "Selama menjalani masa magang yang pertama kita nggk langsung dilepas ke project namun diberi pelatihan terlebih dahulu agar nantinya bisa selaras mengikuti dengan tim. Selain itu teman-teman di MII juga ramah-ramah, kalau ada hal yang kurang ngerti bisa langsung ditanyakan dan nanti akan dibantu. Tapi hal yang paling penting selama menjalani masa magang itu ilmu yang didapat karna ada banyak banget, dari hal-hal yang tidak diajarkan dikampus semua saya dapatkan disini dan juga pengalaman-pengalaman lainnya",
+            "campus": "Universitas Kristen Satya Wacana",
+            "major": "Teknik Informatika",
+            "image": "https://i.ibb.co/2NPz1Lv/pic2.jpg"
+        },
+        {
+            "name": "Yosua Kurniawan",
+            "quote": "Selama saya menjalani Internship, saya banyak sekali belajar hal baru terutama saat terjun langsung ke dalam project. Saya juga merasa di dibimbing dan didampingi oleh rekan – rekan kerja yang ada. Saya ucapkan Terima Kasih banyak atas pembelajaran yang telah diberikan.",
+            "campus": "Universitas Kristen Satya Wacana",
+            "major": "Teknik Informatika",
+            "image": "https://i.ibb.co/BjqcgCc/rsz-yosua-kurniawan.jpg"
+        },
+        {
+            "name": "Armanda Dimas",
+            "quote": "Pengalaman saya mengikuti program internship cukup memuaskan. Saya belajar banyak saat training dan saat terjun langsung ke proyeknya saya belajar lebih banyak lagi. Saya  belajar bekerja dalam tim dan bekerja sama dengan rekan tim. Saya juga merasa dibimbing dan didampingi.",
+            "campus": "Universitas Kristen Satya Wacana",
+            "major": "Teknik Informatika",
+            "image": "https://i.ibb.co/DCzkM2K/rsz-armanda-dimas.jpg"
+        }
+    ]
+}
