@@ -1,0 +1,51 @@
+{
+    "data": [
+        {
+            "code": "MMC",
+            "testimony": [
+                {
+                    "name": "Fahmi Anwar",
+                    "quote": "Pembelajaran yang sangat bagus dan lebih menekankan bagaimana cara membuat kode yang baik dan terstruktur. sangat cocok untuk fresh graduate, menjadi wadah bagi yang belum mempunyai pengalaman di bidang programming. Pembimbing yang ramah dan sabar dalam membimbing peserta hingga paham.",
+                    "job": "Universitas Dian Nuswantoro",
+                    "image": "https://i.ibb.co/41xyVDp/3x4.png"
+                },
+                {
+                    "name": "Enrico Farizky Rustam",
+                    "quote": "Program Metrodata Coding Camp Free Course ini sangat berguna sekali bagi fresh-graduate atau mahasiswa tingkat akhir dan yang ingin meningkatkan passion nya dalam bidang developer. Disini kami belajar banyak mengenai bahasa pemrograman yang baru dan membuat project sendiri untuk mendapatkan atau menambah pengalaman. Terlebih trainer yang sangat kekinian bisa merangkul sekaligus bisa memperlihatkan bagaimana dunia kerja.",
+                    "job": "Telkom University",
+                    "image": "https://i.ibb.co/TBwB89d/d119206e-7baf-4441-833f-70f40b0b6dfd.jpg"
+                },
+                {
+                    "name": "Laila Khoirun Nisa",
+                    "quote": "belajar di codingcamp itu seru! saya jadi belajar banyak tentang pemrograman diluar yang saya pelajari waktu kuliah, modalnya juga cuma perlu semangat dan jangan menyerah",
+                    "job": "Teknik Sistem Komputer",
+                    "image": "https://i.ibb.co/sHfKT0f/Laila-Khoirun-Nisa-21120113130061-Teknik-Sistem-Komputer.jpg"
+                },
+                {
+                    "name": "Muhammad Fikri Ridhwan",
+                    "quote": "Setelah mengikut program Metrodata Coding Camp Free Course, saya banyak mendapat ilmu baru , banyak ketemu teman dan yang terpenting dari itu semua sekarang saya lebih yakin dengan kemampuan saya dan saya siap bersaing di Dunia kerja.",
+                    "job": "Universitas Telkom",
+                    "image": "https://i.ibb.co/KLvp1vN/FOTO-MUHAMMAD-FIKRI-RIDHWAN.jpg"
+                },
+                {
+                    "name": "Kanawa Adi Waskita",
+                    "quote": "Pengalaman belajar yang luar biasa, trainernya sangat berkompeten dalam memberi materi sekaligus memudahkan para peserta seperti saya dalam memahami materi-materi yg ada, diakhir sesi pun akan ada sertifikatnya. Sangat seru bergabung Metrodata Coding Camp Free Course !!",
+                    "job": "Dian Nuswantoro",
+                    "image": "https://i.ibb.co/jHN1L99/kanawa.jpg"
+                },
+                {
+                    "name": " Immanuel Williams Irsal",
+                    "quote": "Selama 3 bulan belajar di MCC, ada banyak hal baru yang saya pelajari dan mengembangkan kemampuan yang sudah pernah diajari dikampus ke tahap yang advance!",
+                    "job": "Universitas Kristen Satya Wacana",
+                    "image": "https://i.ibb.co/YL1m0bH/106477615-3103072429773977-6512255232899130536-n.jpg"
+                },
+                {
+                    "name": "Febrio Ibrahim Sebayang",
+                    "quote": "Free Coursenya Keren, Saya memperlajari dari dasar SQL sampai Front End dengan diberikan tugas yang dipandu oleh trainernya. Trainernya asik, nyaman banget untuk diajak disukusi maupun bertanya. Untuk meterinya cukup advance, saya sering nyobain course online gratis lainnya cuman dasar saja, skill mengcoding dari kuliah juga sangat kurang. disini saya dapat yang lebih advance ditambah dibimbing oleh trainer yang kompeten. Untuk yang masih kuliah dismester akhir dan punya waktu luang sangat direkomendasikan mengikuti ini. Saya yakin ilmu yang didapat sangat bermanfaat untuk fresh graduate mencari kerja.",
+                    "job": "Telkom unversity",
+                    "image": "https://i.ibb.co/KhMthJ4/IMG-20180612-055336.jpg"
+                }
+            ]
+        }
+    ]
+}
