@@ -1,8 +1,8 @@
 {
-    "data": [{
+    "data": {
         "name": "Metrodata Security Camp",
         "description": "Mitra Integrasi Informatika sebagai entitas Metrodata Group menyelenggarakan program IT Security Camp pada Oktober 2019. Program ini ditujukan untuk fresh graduate yang memiliki pengetahuan dalam bidang IT (Information Technology) khususnya IT Security. Peserta Coding Camp akan dilatih secara intensif selama 2 bulan agar peserta memiliki pengetahuan serta skill yang akan dibutuhkan untuk menjadi IT Security Professional.~Selama pelatihan yang diadakan di Kantor Metrodata di Jakarta, peserta diberikan training oleh trainer berpengalaman dalam bidangnya. Peserta akan dilatih dengan merasakan iklim dan suasana kerja secara profesional, dan dengan metode belajar yang beragam. Peserta disediakan Virtual Lab Environment untuk melakukan simulasi tools yang digunakan selama pelatihan ataupun melakukan serangan secara langsung dalam environment virtual.~Pelatihan intensif dilakukan oleh PT Mitra Integrasi Informatika kerjasama dengan EC-Council untuk menghasilkan lulusan yang tersertifikasi. Peserta akan dilatih dengan materi IT Security Compliance, Certified Network Defender (CND), hingga Certified Ethical Hacker (CEH), sehingga peserta akan siap untuk berperan menjadi Defender (Blue Team) ma. upun Attacker (Red Team). Selain itu, Peserta juga diberikan pengetahuan tentang produk - produk IT yang saat ini banyak digunakan oleh perusahaan - perusahaan di Indonesia. Peserta juga akan mendapatkan pelatihan tentang ISO 27001. ISO 27001 merupakan suatu standar Internasional dalam menerapkan sistem manajemen keamanan informasi atau lebih dikenal dengan Information Security Management Systems (ISMS). Peserta akan menerapkan 14 Klausa (grup) yang mencakup 113 kontrol dalam ISO 27001 ke contoh kasus yang telah disiapkan oleh Trainer. Sehingga peserta akan siap untuk menjadi IT Security Consultant dengan ilmu dan skill yang sangat baik.",
         "tagline": "Keamanan menjadi prioritas utama seorang IT Security",
-        "banner": "https://i.ibb.co/t3BS92W/bg.jpg"
-    }]
+        "banner": "https://i.ibb.co/FVZDBrC/Banner-Security-Camp-1.jpg"
+    }
 }
