@@ -1,0 +1,30 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "program": "java",
+            "name": "Bootcamp Java",
+            "resume": "Program ini akan memberimu training untuk menjadi seorang programmer Java.",
+            "logo": "https://i.ibb.co/M5sDM1W/java.png",
+            "content": {
+                "title": "Metrodata IT Camp Java",
+                "subtitle": "Subtitle",
+                "review": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+                "banner": "https://i.ibb.co/XFyHw3Q/itcamp-program-java.png",
+            }
+        },
+        {
+            "id": 2,
+            "program": "dotnet",
+            "name": "Bootcamp .Net",
+            "resume": "Program ini akan memberimu training untuk menjadi seorang programmer .Net.",
+            "logo": "https://i.ibb.co/PYXWTTv/dotnet.png",
+            "content": {
+                "title": "Metrodata IT Camp .Net",
+                "subtitle": "Subtitle",
+                "review": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+                "banner": "https://i.ibb.co/6BH4Lwf/itcamp-program-dotnet.png",
+            }
+        }
+    ]
+}
