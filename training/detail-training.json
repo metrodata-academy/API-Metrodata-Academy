@@ -5484,5 +5484,961 @@
       }
     ],
     "thumbnail": "https://res.cloudinary.com/ganbate/image/upload/v1600060947/Metrodata%20Academy/training/ms_office_365.jpg"
+  },
+  "D105110": {
+    "_id": 62,
+    "id": "D105110",
+    "title": "Oracle Database 19c: New Features for Administrators",
+    "duration": "2 Days",
+    "time": "09.00 - 17.00",
+    "price": "6.831.644",
+    "includes": [
+      {
+        "value": "Certificate of attendance",
+        "checked": true
+      },
+      {
+        "value": "Exam certification",
+        "checked": false
+      },
+      {
+        "value": "PC/Laptop",
+        "checked": true
+      }
+    ],
+    "overview": "The course provides the Oracle Database 19c new features and enhancements related to database overall, security, availability, performance, data warehousing, and diagnosability. In the lessons, you learn the new and enhanced features of Oracle Database 19c amongst different areas such as database overall, security, availability, performance, big data and warehousing, and diagnosability.",
+    "audience": ["Oracle Database Administrators", "System Administrators", "Developers"],
+    "objective": [
+      "Understand the concept, benefits, configuration, and usage of the new features and enhancements in database overall area",
+      "Understand the concept, benefits, configuration, and usage of the new features and enhancements in the security area",
+      "Understand the concept, benefits, configuration, and usage of the new features and enhancements in the availability area",
+      "Understand the concept, benefits, configuration, and usage of the new features and enhancements in the performance area",
+      "Understand the concept, benefits, configuration, and usage of the new features and enhancements in big data and data warehousing area",
+      "Understand the concept, benefits, configuration, and usage of the new features and enhancements in diagnosability area",
+      "Understand the concept, benefits, configuration, and usage of the new features and enhancements in sharding area"
+    ],
+    "prerequisites": {
+      "explanation": "",
+      "title_list": "",
+      "list": [
+        "Oracle Database 12c R2: New Features for Administrators Part 1",
+        "Oracle Database 12c R2: New Features for Administrators Part 2",
+        "Oracle Database 18c: New Features for Administrators"
+      ]
+    },
+    "outline": [
+      {
+        "module": "",
+        "materi": "- Using General Database Overall Enhancements, - Using Security Enhancements, - Using Availability Enhancements, - Using Performance Enhancements, - Using Big Data and Data Warehousing Enhancements, - Using Diagnosability Enhancements, - Sharding Enhancements"
+      }
+    ],
+    "thumbnail": "https://res.cloudinary.com/ganbate/image/upload/v1600060947/Metrodata%20Academy/training/ms_excel.jpg"
+  },
+  "D101882": {
+    "_id": 63,
+    "id": "D101882",
+    "title": "Oracle Database 18c: New Features for Administrators",
+    "duration": "3 Days",
+    "time": "09.00 - 17.00",
+    "price": "10.247.466",
+    "includes": [
+      {
+        "value": "Certificate of attendance",
+        "checked": true
+      },
+      {
+        "value": "Exam certification",
+        "checked": false
+      },
+      {
+        "value": "PC/Laptop",
+        "checked": true
+      }
+    ],
+    "overview": "This course provides an overview of the Oracle Database 18c new features and enhancements related to Multitenant architecture, security, RMAN, general database areas, performance, data warehousing and Sharding.",
+    "audience": ["Database Administrator", "Developer"],
+    "objective": [
+      "Use new features of the Multitenant architecture",
+      "Understand and benefit from new features of the Database Security",
+      "Benefit from new features of RMAN",
+      "Use new features of General Database",
+      "Configure and use new features in Performance",
+      "Manipulate new features of the Data Warehousing",
+      "Understand enhancements in Sharding"
+    ],
+    "prerequisites": {
+      "explanation": "",
+      "title_list": "",
+      "list": [
+        "Oracle Database 12c R2: New Features for Administrators Part 1 Ed 1",
+        "Oracle Database 12c R2: New Features for Administrators Part 2 Ed 1",
+        "Oracle Database 12c R2: High Availability New Features Ed 1",
+        "Knowledge of Oracle Database 11g R2 and 12c"
+      ]
+    },
+    "outline": [
+      {
+        "module": "Leveraging Multitenant Enhancements",
+        "materi": "- Manage application PDBs fleet, - Manage PDB snapshots carousel, - Benefit from dynamic container map, - Understand lockdown profile inheritance and create and use static and dynamic lockdown profiles, - Use refreshable copy PDB switchover"
+      },
+      {
+        "module": "Managing Security",
+        "materi": "- Create and use a schema only account, - Isolate PDB keystores, - Export and import database links, - Configure encryption of sensitive data in Database Replay files, - Explain direct Active Directory Services integration"
+      },
+      {
+        "module": "Using RMAN Enhancements",
+        "materi": "- Reuse preplugin backups before and after a non-CDB conversion as a PDB or a PDB migration to another CDB, - Clone active PDB into another CDB using DUPLICATE and duplicate an on-premises CDB to Cloud as encrypted"
+      },
+      {
+        "module": "Applying General Database Enhancements",
+        "materi": "- Manage private temporary tables, - Use the new Data Pump Import option of the DATA_OPTIONS parameter, - Online modification of partitioning and subpartitioning strategy, - Merging of partitions and subpartitions online, - Generate batched DDL by using DBMS_METADATA_DIFF package"
+      },
+      {
+        "module": "Improving Performance",
+        "materi": "- Configure Automatic In-Memory, - Use IMEs window capture, - Describe the new SQL Tuning Set package, - Describe the concurrency of SQL execution of SQL Performance Analyzer tasks and Result Set Validation"
+      },
+      {
+        "module": "Handling Enhancements in Big Data and Data Warehousing",
+        "materi": "- Query inlined external tables and manage in-memory external tables, - Use analytic view new query capabilities, - Create and use polymorphic table functions"
+      },
+      {
+        "module": "Describing Sharding Enhancements",
+        "materi": "- Describe the user-defined sharding method, - Understand support for PDBs as shards, - Describe Oracle GoldenGate enhancements for Oracle Sharding support, - Query system objects across shards, - Describe improved multi-shard query enhancements"
+      }
+    ],
+    "thumbnail": "https://res.cloudinary.com/ganbate/image/upload/v1600060947/Metrodata%20Academy/training/linux.jpg"
+  },
+  "D102146": {
+    "_id": 64,
+    "id": "D102146",
+    "title": "Oracle Database 18c: High Availability New Features",
+    "duration": "1 Days",
+    "time": "09.00 - 17.00",
+    "price": "4.269.778",
+    "includes": [
+      {
+        "value": "Certificate of attendance",
+        "checked": true
+      },
+      {
+        "value": "Exam certification",
+        "checked": false
+      },
+      {
+        "value": "PC/Laptop",
+        "checked": true
+      }
+    ],
+    "overview": "In the Oracle Database 18c: High Availability New Features course, students will learn about new software features and improvements found in Oracle Clusterware, Oracle ASM, Real Application Clusters, and Oracle Data Guard. By enrolling in this course, you'll learn how to better implement High availability features found in Oracle Clusterware, ASM, ACFS, RAC and Data Guard in your own computing environment.",
+    "audience": ["Administrator", "Database Administrator", "End User"],
+    "objective": [
+      "Use additional enhancements for Oracle ACFS and ADVM",
+      "Leverage Oracle RAC new featuers found in this release",
+      "Configure and use Oracle Data Guard new features",
+      "Use new Data Guard Broker commands",
+      "Configure and implement Oracle Clusterware enhancments",
+      "Use and manage ASM using the new features in this release"
+    ],
+    "prerequisites": {
+      "explanation": "",
+      "title_list": "",
+      "list": [
+        "Oracle Database 12c R2: Clusterware Administration Ed 2",
+        "CDT Oracle Database 12c R2: ASM Administration",
+        "Oracle Database 12c R2: RAC Administration Ed 2",
+        "Oracle Database 12c: Data Guard Administration Ed 1",
+        "Oracle Database 12c R2: Managing Multitenant Architecture Ed 2",
+        "Working knowledge of Oracle Database 12c R2 Clusterware, ASM and RAC"
+      ]
+    },
+    "outline": [
+      {
+        "module": "Oracle Clusterware",
+        "materi": "- Configure and manage Cross-Domain Protocol Proxies, - Implement Shared SCAN VIPs"
+      },
+      {
+        "module": "Oracle ASM",
+        "materi": "- Create point-in-time database clones using Oracle ASM file group enhancements, - Convert normal or high redundancy disk groups to flex disk groups, - Enable/disable Hardware Assisted Resilient Data (HARD) checking"
+      },
+      {
+        "module": "Oracle ACFS",
+        "materi": "- Manage role reversal for primary and standby ACFS sites, - Replicate a mounted file system or a snapshot of a mounted file system, - Incorporate updated acfsutil commands for better management of Oracle ACFS snapshots"
+      },
+      {
+        "module": "Oracle RAC",
+        "materi": "- Describe the benefits of Continuous Application Availability, - Perform an Image-based Oracle RAC Database Installation, - List the benefits of Read-Only Oracle Homes, - Implement Private Temporary Tables on Active Data Guard Instances"
+      },
+      {
+        "module": "Oracle Data Guard",
+        "materi": "- Database Nologging Enhancements, - Explore New Data Guard Broker Commands, - List and describe the new Data Guard Configurable Properties"
+      }
+    ],
+    "thumbnail": "https://res.cloudinary.com/ganbate/image/upload/v1600060947/Metrodata%20Academy/training/docker.jpg"
+  },
+  "D104449": {
+    "_id": 65,
+    "id": "D104449",
+    "title": "Oracle Database 18c: Backup and Recovery Workshop",
+    "duration": "5 Days",
+    "time": "09.00 - 17.00",
+    "price": "17.079.110",
+    "includes": [
+      {
+        "value": "Certificate of attendance",
+        "checked": true
+      },
+      {
+        "value": "Exam certification",
+        "checked": false
+      },
+      {
+        "value": "PC/Laptop",
+        "checked": true
+      }
+    ],
+    "overview": "The student begins by gaining a deeper understanding of possibly the most important job of a DBA – backup and recovery. The concepts and architecture that support backup and recovery, along with implementation in various ways and situations are covered in detail. Students gain knowledge of the Recovery Manager (RMAN) command-line interface for various backup, failure, restore, and recovery scenarios, including data duplication. Extensive hands-on practices and workshop scenarios provide the student with experience in a realistic technical environment. This course includes an interactive workshop that provide participants with opportunities to diagnose and recover from several failure scenarios, based on backup and recovery case studies.",
+    "audience": ["Administrator", "Database Administrator", "Implementer"],
+    "objective": [
+      "Describe the Oracle Database architecture components related to backup and recovery operations",
+      "Describe Oracle Database backup methods and recovery operations that can be used to resolve database failure",
+      "Plan effective backup and recovery procedures",
+      "Configure the database for recoverability",
+      "Use Recovery Manager (RMAN) to create backups and perform recovery operations",
+      "Use the Data Recovery Advisor to diagnose and repair failures",
+      "Perform an encrypted database backup and restore",
+      "Perform tablespace point-in-time recovery",
+      "Use Oracle Flashback Technologies to recover from human error"
+    ],
+    "prerequisites": {
+      "explanation": "",
+      "title_list": "",
+      "list": [
+        "Basic knowledge of Linux operating system",
+        "Oracle Database 18c: Administration Workshop Ed 1",
+        "Knowledge of SQL and PL/SQL (for DBA use)",
+        "Knowledge of Oracle Database 18c"
+      ]
+    },
+    "outline": [
+      { "module": "", "materi": "Introduction" },
+      { "module": "", "materi": "Getting Started" },
+      { "module": "", "materi": "Configuring for Recoverablility" },
+      { "module": "", "materi": "Using the RMAN Recovery Catalog" },
+      { "module": "", "materi": "Backup Strategies and Terminology" },
+      { "module": "", "materi": "Performing Backups" },
+      { "module": "", "materi": "Improving Your Backups" },
+      { "module": "", "materi": "Using RMAN-Encrypted Backups" },
+      { "module": "", "materi": "Diagnosing Failures" },
+      { "module": "", "materi": "Restore and Recovery Concepts" },
+      { "module": "", "materi": "Performing Complete Recovery" },
+      { "module": "", "materi": "Performing Point-in-Time Recovery" },
+      { "module": "", "materi": "Additional Recovery Operations" },
+      { "module": "", "materi": "Using Flashback Technologies" },
+      { "module": "", "materi": "Using Flashback Database" },
+      { "module": "", "materi": "Transporting Data" },
+      { "module": "", "materi": "Performing Point-in-Time Recovery" },
+      { "module": "", "materi": "Duplicating a Database" },
+      { "module": "", "materi": "RMAN Troubleshooting and Tuning" },
+      { "module": "", "materi": "Backup and Recovery Workshop" }
+    ],
+    "thumbnail": "https://res.cloudinary.com/ganbate/image/upload/v1600060947/Metrodata%20Academy/training/ms_power_bi.jpg"
+  },
+  "D81599": {
+    "_id": 66,
+    "id": "D81599",
+    "title": "Oracle Database 12c: Security",
+    "duration": "5 Days",
+    "time": "09.00 - 17.00",
+    "price": "21.348.889",
+    "includes": [
+      {
+        "value": "Certificate of attendance",
+        "checked": true
+      },
+      {
+        "value": "Exam certification",
+        "checked": false
+      },
+      {
+        "value": "PC/Laptop",
+        "checked": true
+      }
+    ],
+    "overview": "This Oracle Database 12c: Security training teaches you how you can use Oracle Database features to meet the security, privacy and compliance requirements of your organization. You'll get the chance to interact with expert Oracle University instructors through a combination of instruction and hands-on exercises that reinforce new concepts.",
+    "audience": [
+      "Administrator",
+      "Database Administrator",
+      "Network Administrator",
+      "Security Specialist",
+      "Systems Administrator"
+    ],
+    "objective": [
+      "Find solutions to secure database access through the network",
+      "Configure appropriate authentication for the database or enterprise users in the organization",
+      "Control data access and integrity in their organization using the appropriate feature or option or product like privileges or Oracle Label Security",
+      "Ensure data confidentiality using an encryption solution like Transparent Data Encryption, or Data Redaction or Oracle Data Masking",
+      "Audit user actions using any of the auditing features like unified auditing",
+      "Analyze any security risks of their organization",
+      "Find appropriate Oracle solutions to meet the security, privacy and compliance requirements of their organization"
+    ],
+    "prerequisites": {
+      "explanation": "",
+      "title_list": "",
+      "list": [
+        "Perform RMAN backup and recovery",
+        "Use Oracle Data Pump export and import",
+        "Create and manage users, roles, and privileges",
+        "Administer listeners",
+        "Good knowledge of Oracle Database"
+      ]
+    },
+    "outline": [
+      {
+        "module": "",
+        "materi": "Introduction"
+      },
+      {
+        "module": "",
+        "materi": "Understanding Security Requirements"
+      },
+      {
+        "module": "",
+        "materi": "Choosing Security Solutions"
+      },
+      {
+        "module": "",
+        "materi": "Implementing Basic Database Security"
+      },
+      {
+        "module": "",
+        "materi": "Securing Data on the Network "
+      },
+      {
+        "module": "",
+        "materi": "Using Basic and Strong User Authentication"
+      },
+      {
+        "module": "",
+        "materi": "Configuring Global User Authentication"
+      },
+      {
+        "module": "",
+        "materi": "Using Proxy Authentication"
+      },
+      {
+        "module": "",
+        "materi": "Using Privileges and Roles"
+      },
+      {
+        "module": "",
+        "materi": "Using Privilege Analysis"
+      },
+      {
+        "module": "",
+        "materi": "Using Application Contexts"
+      },
+      {
+        "module": "",
+        "materi": "Implementing Virtual Private Database"
+      },
+      {
+        "module": "",
+        "materi": "Implementing Oracle Label Security"
+      },
+      {
+        "module": "",
+        "materi": "Redacting Data"
+      },
+      {
+        "module": "",
+        "materi": "Using Oracle Data Masking"
+      },
+      {
+        "module": "",
+        "materi": "Using Transparent Sensitive Data Protection"
+      },
+      {
+        "module": "",
+        "materi": "Encryption Concepts and Solutions"
+      },
+      {
+        "module": "",
+        "materi": "Encrypting with DBMS_CRYPTO Package"
+      },
+      {
+        "module": "",
+        "materi": "Using Transparent Data Encryption"
+      },
+      {
+        "module": "",
+        "materi": "Database Storage Security"
+      },
+      {
+        "module": "",
+        "materi": "Using Unified Audit"
+      },
+      {
+        "module": "",
+        "materi": "Using Fine-Grained Audit"
+      }
+    ],
+    "thumbnail": "https://res.cloudinary.com/ganbate/image/upload/v1600060947/Metrodata%20Academy/training/ms_power_point.jpg"
+  },
+  "D50079": {
+    "_id": 67,
+    "id": "D50079",
+    "title": "Oracle Database 11g: Administration Workshop II Release 2",
+    "duration": "5 Days",
+    "time": "09.00 - 17.00",
+    "price": "17.079.110",
+    "includes": [
+      {
+        "value": "Certificate of attendance",
+        "checked": true
+      },
+      {
+        "value": "Exam certification",
+        "checked": false
+      },
+      {
+        "value": "PC/Laptop",
+        "checked": true
+      }
+    ],
+    "overview": "This Oracle Database 11g: Administration Workshop II Release 2 training takes the database administrator beyond the basic tasks covered in the first workshop. You'll begin by gaining a deep understanding of the most important responsibilities a DBA has: performing backup and recovery.",
+    "audience": ["Administrator", "Database Administrator", "Implementer"],
+    "objective": [
+      "Configure the Oracle Database for optimal recovery",
+      "Configure the database instance such that resources are appropriately allocated among sessions and tasks",
+      "Schedule jobs to run inside or outside of the database",
+      "Use compression to optimize database storage and duplicate a database",
+      "Back and recover a database (and its parts) with RMAN (command-line and Enterprise Manager)",
+      "Use flashback technology to view past states of data and to revert either objects or the entire database back to a past state",
+      "Use an appropriate and flexible memory configuration for your database",
+      "Identify burdensome database sessions and poorly performing SQL"
+    ],
+    "prerequisites": {
+      "explanation": "",
+      "title_list": "",
+      "list": [
+        "Working knowledge of SQL and how to use PL/SQL packages",
+        "Oracle Database 11g: Administration Workshop I Ed 2",
+        "Oracle Database 11g Database Administration"
+      ]
+    },
+    "outline": [
+      {
+        "module": "",
+        "materi": "Core Concepts and Tools of the Oracle Database"
+      },
+      {
+        "module": "",
+        "materi": "Configuring for Recoverability"
+      },
+      {
+        "module": "",
+        "materi": "Using the RMAN Recovery Catalog"
+      },
+      {
+        "module": "",
+        "materi": "Configuring Backup Settings"
+      },
+      {
+        "module": "",
+        "materi": "Creating Backups with RMAN"
+      },
+      {
+        "module": "",
+        "materi": "Restore and Recovery Task"
+      },
+      {
+        "module": "",
+        "materi": "Using RMAN to Perform Recovery"
+      },
+      {
+        "module": "",
+        "materi": "Monitoring and Tuning RMAN"
+      },
+      {
+        "module": "",
+        "materi": "Diagnosing the Database"
+      },
+      {
+        "module": "",
+        "materi": "Using Flashback Technology I"
+      },
+      {
+        "module": "",
+        "materi": "Using Flashback Technology II"
+      },
+      {
+        "module": "",
+        "materi": "Performing Flashback Database"
+      },
+      {
+        "module": "",
+        "materi": "Managing Memory"
+      },
+      {
+        "module": "",
+        "materi": "Managing Database Performance"
+      },
+      {
+        "module": "",
+        "materi": "Managing Performance by SQL Tuning"
+      },
+      {
+        "module": "",
+        "materi": "Managing Resources"
+      },
+      {
+        "module": "",
+        "materi": "Automating Tasks with the Scheduler"
+      },
+      {
+        "module": "",
+        "materi": "Managing Space in Blocks"
+      },
+      {
+        "module": "",
+        "materi": "Managing Space in Segments"
+      },
+      {
+        "module": "",
+        "materi": "Managing Space for the Database"
+      },
+      {
+        "module": "",
+        "materi": "Duplicating a Database"
+      }
+    ],
+    "thumbnail": "https://res.cloudinary.com/ganbate/image/upload/v1600060947/Metrodata%20Academy/training/redhat.jpg"
+  },
+  "D50102": {
+    "_id": 68,
+    "id": "D50102",
+    "title": "Oracle Database 11g: Administration Workshop I Release 2",
+    "duration": "5 Days",
+    "time": "09.00 - 17.00",
+    "price": "17.079.110",
+    "includes": [
+      {
+        "value": "Certificate of attendance",
+        "checked": true
+      },
+      {
+        "value": "Exam certification",
+        "checked": false
+      },
+      {
+        "value": "PC/Laptop",
+        "checked": true
+      }
+    ],
+    "overview": "This Oracle Database 11g: Administration Workshop I Release 2 course explores the fundamentals of basic database administration. Expert Oracle University instructors will reinforce topics with structured hands-on practices that will prepare you for the corresponding Oracle Certified Associate exam.",
+    "audience": ["Administrator", "Database Administrator", "Developer", "Implementer"],
+    "objective": [
+      "Create and administer user accounts",
+      "Manage data concurrency",
+      "Perform basic backup and recovery of a database",
+      "Describe Oracle Database Architecture",
+      "Install Oracle Grid Infrastructure",
+      "Install and configure Oracle Database 11g",
+      "Configure Oracle Net services",
+      "Monitor performance",
+      "Monitor and administer undo data",
+      "Manage the database storage structures"
+    ],
+    "prerequisites": {
+      "explanation": "",
+      "title_list": "",
+      "list": [
+        "Taken Oracle PL/SQL course or equivalent experience",
+        "Taken Oracle Introduction to SQL course or equivalent experience"
+      ]
+    },
+    "outline": [
+      { "module": "", "materi": "Exploring the Oracle Database Architecture" },
+      { "module": "", "materi": "Installing your Oracle Software" },
+      { "module": "", "materi": "Creating an Oracle Database" },
+      { "module": "", "materi": "Managing the Oracle Database Instance" },
+      { "module": "", "materi": "Manage the ASM Instance" },
+      { "module": "", "materi": "Configuring the Oracle Network Environment" },
+      { "module": "", "materi": "Managing Database Storage Structures" },
+      { "module": "", "materi": "Administering User Security" },
+      { "module": "", "materi": "Managing Data Concurrency" },
+      { "module": "", "materi": "Managing Undo Data" },
+      { "module": "", "materi": "Implementing Oracle Database Auditing" },
+      { "module": "", "materi": "Database Maintenance" },
+      { "module": "", "materi": "Performance Management" },
+      { "module": "", "materi": "Backup and Recovery Concepts" },
+      { "module": "", "materi": "Performing Database Backups" },
+      { "module": "", "materi": "Performing Database Recovery" },
+      { "module": "", "materi": "Moving Data" },
+      { "module": "", "materi": "Working with Support" }
+    ],
+    "thumbnail": "https://res.cloudinary.com/ganbate/image/upload/v1600060947/Metrodata%20Academy/training/ms_office_365.jpg"
+  },
+  "10984-B": {
+    "_id": 69,
+    "id": "10984-B",
+    "title": "Deploying and Managing Office 365 Hybrid Deployments",
+    "duration": "3 Days",
+    "time": "09.00 - 17.00",
+    "price": "5.500.000",
+    "includes": [
+      {
+        "value": "Certificate of attendance",
+        "checked": true
+      },
+      {
+        "value": "Exam certification",
+        "checked": false
+      },
+      {
+        "value": "PC/Laptop",
+        "checked": true
+      }
+    ],
+    "overview": "This is a 3-day ILT course that targets the needs of IT professionals who take part in administering, configuring, and operating Office 365 services in hybrid environments, where part of the infrastructure is hosted on-premises. This course also includes management of identities, authentication, and supporting technologies for Office 365. This course focuses on the skills required to administer and troubleshoot an Office 365 tenant, and key services of Office 365 such as Exchange Online, SharePoint Online, and Skype for Business, as well as services such as Azure Multi-Factor Authentication (MFA), Azure Active Directory Identity Protection, and Azure Active Directory Privileged Identity Management. All these services are covered from the hybrid aspect. This course provides knowledge on how to use Office 365 services for both cloud and on-premises resources.",
+    "audience": [
+      "The audience for this course includes IT professionals and system administrators who want to learn how to implement and maintain Office 365 in hybrid scenarios, where one part of collaboration infrastructure is located on-premises and integrated with Office 365 services. These professionals should have at least 3 years of experience working in their respective field's specifically, previous knowledge about Exchange Server, SharePoint Server, and Skype for Business Server (for example, Lync server) is expected. Students who attend this course are also expected to have a fairly broad understanding of Office 365 services administration in general, as well as several on-premises technologies such as DNS and AD DS"
+    ],
+    "objective": ["-"],
+    "prerequisites": {
+      "explanation": "",
+      "title_list": "In addition to their professional experience, students who attend this training should already have the following technical knowledge:",
+      "list": [
+        "Minimum of two years of experience administering the Windows Server operating system, including Windows Server 2012 or later.",
+        "Minimum of one year of experience working with Active Directory Domain Services.",
+        "Minimum of one year of experience working with name resolution, including Domain Name System (DNS).",
+        "Experience working with certificates, including public key infrastructure (PKI) certificates",
+        "Experience working with Windows PowerShell.",
+        "Experience working with Exchange Server 2013 or later, Lync 2013 Server or Skype for Business Server2015, and SharePoint Server 2013 or later.",
+        "Experience working with Office 365 key services such as Exchange Online, Skype for Business and SharePoint Online."
+      ]
+    },
+    "outline": [
+      {
+        "module": "Introduction to Office 365 administration and licensing",
+        "materi": "This module describes Office 365, its administration tools, and licensing options"
+      },
+      {
+        "module": "Deploying and configuring directory synchronization",
+        "materi": "This module explains how to describe and configure directory synchronization in an Office 365 deployment"
+      },
+      {
+        "module": "Exchange Server hybrid deployment planning",
+        "materi": "This module explains how to plan hybrid configuration with Exchange Server and Exchange Online"
+      },
+      {
+        "module": "Exchange Server hybrid deployment",
+        "materi": "This module explains how to perform Exchange Server hybrid configuration deployment"
+      },
+      {
+        "module": "Skype for Business and Teams in Office 365 hybrid deployment",
+        "materi": "This module explains how to deploy Skype for Business and Teams in a hybrid deployment"
+      },
+      {
+        "module": "SharePoint and OneDrive for Business hybrid deployment",
+        "materi": "This module explains how to deploy SharePoint and OneDrive for Business in hybrid environments"
+      },
+      {
+        "module": "Deploying additional Office 365 services in a hybrid deployment",
+        "materi": "This module explains how to deploy Azure MFA, Identity Protection, and Azure Information Protection"
+      },
+      {
+        "module": "Authentication options in hybrid deployments",
+        "materi": "This module explains how to deploy various authentication methods in a hybrid Office 365 deployment"
+      }
+    ],
+    "thumbnail": "https://res.cloudinary.com/ganbate/image/upload/v1600060947/Metrodata%20Academy/training/ms_excel.jpg"
+  },
+  "10997-C": {
+    "_id": 70,
+    "id": "10997-C",
+    "title": "Office 365 Administration and Troubleshooting",
+    "duration": "3 Days",
+    "time": "09.00 - 17.00",
+    "price": "5.500.000",
+    "includes": [
+      {
+        "value": "Certificate of attendance",
+        "checked": true
+      },
+      {
+        "value": "Exam certification",
+        "checked": false
+      },
+      {
+        "value": "PC/Laptop",
+        "checked": true
+      }
+    ],
+    "overview": "This is a three-day Instructor Led Training (ILT) course that targets the needs of information technology (IT) professionals who take part in administering, configuring, troubleshooting, and operating Office 365 services, including its identities, dependencies, requirements, and supporting technologies. This course focuses on skills required to administer and troubleshoot Office 365 tenant and key services of Office 365, such as Exchange Online, SharePoint Online and Skype for Business and Teams. It also covers security and compliance features of Office 365.",
+    "audience": [
+      "This course is intended for IT professionals and system administrators who want to learn about administration and troubleshooting techniques in Office 365. These professionals should have at least three years of experience working in their respective fields: ideally in the areas of system administration, network administration, and messaging"
+    ],
+    "objective": ["-"],
+    "prerequisites": {
+      "explanation": "",
+      "title_list": "Before attending this course, students must have:",
+      "list": [
+        "A minimum of two years of experience administering the Windows Server operating system, including Windows Server 2012 or newer.",
+        "A minimum of one year of experience working with Active Directory Domain Services (AD DS).",
+        "A minimum of one year of experience working with name resolution, including DNS.",
+        "Experience working with certificates, including public key infrastructure (PKI) certificates.",
+        "Experience working with Windows PowerShell.",
+        "Experience working with Microsoft Exchange Server 2013 or newer, Microsoft Lync 2013 Server or Skype for Business 2015 Server, and Microsoft SharePoint Server 2013 or newer is beneficial but not required."
+      ]
+    },
+    "outline": [
+      {
+        "module": "Office 365 services overview",
+        "materi": "This module describes the features of Office 365 and identifies recent improvements to the service. It also identifies licensing options, describes the process of Office 365 tenant configuration, and lists appropriate Office 365 client options"
+      },
+      {
+        "module": "Office 365 administration, tools, and techniques",
+        "materi": "This module describes how to manage Office 365 by using the administrative portals and Windows PowerShell. It also explains how to manage administrative access and troubleshoot administration in Office 365"
+      },
+      {
+        "module": "Administering and troubleshooting directory synchronization and directory objects",
+        "materi": "This module describes directory synchronization and federation. The module explains how to manage Microsoft Azure Active Directory Connect (Azure AD Connect) and user and group objects in Office 365. Additionally, it describes how to troubleshoot objects and directory synchronization in Office 365"
+      },
+      {
+        "module": "Administering and troubleshooting Exchange Online",
+        "materi": "This module describes the subscription options and roles in Exchange Online. It explains how to administer Exchange Online recipients and client access policies in Exchange Online and how to troubleshoot Exchange Online"
+      },
+      {
+        "module": "Administering and troubleshooting Skype for Business Online and Teams",
+        "materi": "This module describes Skype for Business Online and Teams. It explains how to administer, manage, and troubleshoot Skype for Business Online and Teams"
+      },
+      {
+        "module": "Administering and troubleshooting SharePoint Online",
+        "materi": "This module describes how to configure SharePoint Online settings and site collections and external user access to SharePoint Online. It also explains how to manage Microsoft OneDrive for Business synchronization and how to troubleshoot SharePoint Online"
+      },
+      {
+        "module": "Planning and deploying Office 365 ProPlus",
+        "materi": "This module describes Office 365 ProPlus. It also explains how to plan and manage user-driven Office 365 ProPlus deployments and how to troubleshoot the deployments"
+      },
+      {
+        "module": "Administering and troubleshooting compliance and security in Office 365",
+        "materi": "This module describes the compliance features in Office 365. It explains how to administer Azure Information Protection and the compliance features in Office 365, how to configure and administer email security in Office 365, and how to troubleshoot Office 365 compliance and protection"
+      }
+    ],
+    "thumbnail": "https://res.cloudinary.com/ganbate/image/upload/v1600060947/Metrodata%20Academy/training/linux.jpg"
+  },
+  "MS-101T00-A": {
+    "_id": 71,
+    "id": "MS-101T00-A",
+    "title": "Microsoft 365 Mobility and Security",
+    "duration": "5 Days",
+    "time": "09.00 - 17.00",
+    "price": "8.500.000",
+    "includes": [
+      {
+        "value": "Certificate of attendance",
+        "checked": true
+      },
+      {
+        "value": "Exam certification",
+        "checked": false
+      },
+      {
+        "value": "PC/Laptop",
+        "checked": true
+      }
+    ],
+    "overview": "This course covers three central elements of Microsoft 365 enterprise administration – Microsoft 365 security management, Microsoft 365 compliance management, and Microsoft 365 device management. In Microsoft 365 security management, you will examine all the common types of threat vectors and data breaches facing organizations today, and you will learn how Microsoft 365’s security solutions address these security threats. You will be introduced to the Microsoft Secure Score, as well as to Azure Active Directory Identity Protection. You will then learn how to manage the Microsoft 365 security services, including Exchange Online Protection, Advanced Threat Protection, Safe Attachments, and Safe Links. Finally, you will be introduced to the various reports that monitor your security health. You will then transition from security services to threat intelligence; specifically, using the Security Dashboard and Advanced Threat Analytics to stay ahead of potential security breaches.",
+    "audience": [
+      "This course is designed for persons who are aspiring to the Microsoft 365 Enterprise Admin role and have completed one of the Microsoft 365 role-based administrator certification paths"
+    ],
+    "objective": ["-"],
+    "prerequisites": {
+      "explanation": "",
+      "title_list": "",
+      "list": [
+        "Completed a role-based administrator course such as Messaging, Teamwork, Security and Compliance, or Collaboration.",
+        "A proficient understanding of DNS and basic functional experience with Microsoft 365 services.",
+        "A proficient understanding of general IT practices"
+      ]
+    },
+    "outline": [
+      {
+        "module": "Introduction to Microsoft 365 Security Metrics",
+        "materi": "In this module, you will examine all the common types of threat vectors and data breaches facing organizations today, and you will learn how Microsoft 365's security solutions address these security threats, including the Zero Trust approach. You will be introduced to the Microsoft Secure Score, Privileged Identity Management, as well as to Azure Active Directory Identity Protection"
+      },
+      {
+        "module": "Managing Your Microsoft 365 Security Services",
+        "materi": "This module examines how to manage the Microsoft 365 security services, including Exchange Online Protection, Advanced Threat Protection, Safe Attachments, and Safe Links. You will be introduced to the various reports that monitor your security health"
+      },
+      {
+        "module": "Microsoft 365 Threat Intelligence",
+        "materi": "In this module, you will then transition from security services to threat intelligence; specifically, using the Security Dashboard and Advanced Threat Analytics to stay ahead of potential security breaches"
+      },
+      {
+        "module": "Introduction to Data Governance in Microsoft 365",
+        "materi": "This module examines the key components of Microsoft 365 Compliance management. This begins with an overview of all key aspects of data governance, including data archiving and retention, Information Rights Management, Secure Multipurpose Internet Mail Extension (S/MIME), Office 365 message encryption, and data loss prevention (DLP)"
+      },
+      {
+        "module": "Archiving and Retention in Microsoft 365",
+        "materi": "This module delves deeper into archiving and retention, paying particular attention to in-place records management in SharePoint, archiving and retention in Exchange, and Retention policies in the Security and Compliance Center"
+      },
+      {
+        "module": "Implementing Data Governance in Microsoft 365 Intelligence",
+        "materi": "This module examines how to implement the key aspects of data governance, including the building of ethical walls in Exchange Online, creating DLP policies from built-in templates, creating custom DLP policies, creating DLP policies to protect documents, and creating policy tips"
+      },
+      {
+        "module": "Managing Data Governance in Microsoft 365",
+        "materi": "This module focuses on managing data governance in Microsoft 365, including managing retention in email, troubleshooting retention policies and policy tips that fail, as well as troubleshooting sensitive data. You will then learn how to implement Azure Information Protection and Windows Information Protection"
+      },
+      {
+        "module": "Managing Search and Investigations",
+        "materi": "This module conclude this section on data governance by examining how to manage search and investigation, including searching for content in the Security and Compliance Center, auditing log investigations, and managing advanced eDiscovery"
+      },
+      {
+        "module": "Planning for Device Management",
+        "materi": "This module provides an in-depth examination of Microsoft 365 Device management. You will begin by planning for various aspects of device management, including preparing your Windows 10 devices for co-management. You will learn how to transition from Configuration Manager to Microsoft Intune, and you will be introduced to the Microsoft Store for Business and Mobile Application Management"
+      },
+      {
+        "module": "Planning Your Windows 10 Deployment Strategy",
+        "materi": "This module focuses on planning your Windows 10 deployment strategy, including how to implement Windows Autopilot and Windows Analytics, and planning your Windows 10 subscription activation service"
+      },
+      {
+        "module": "Implementing Mobile Device Management",
+        "materi": "This module focuses on Mobile Device Management (MDM). You will learn how to deploy it, how to enroll devices to MDM, and how to manage device compliance"
+      }
+    ],
+    "thumbnail": "https://res.cloudinary.com/ganbate/image/upload/v1600060947/Metrodata%20Academy/training/docker.jpg"
+  },
+  "MS-100T00-A": {
+    "_id": 72,
+    "id": "MS-100T00-A",
+    "title": "Microsoft 365 Identity and Services",
+    "duration": "5 Days",
+    "time": "09.00 - 17.00",
+    "price": "8.500.000",
+    "includes": [
+      {
+        "value": "Certificate of attendance",
+        "checked": true
+      },
+      {
+        "value": "Exam certification",
+        "checked": false
+      },
+      {
+        "value": "PC/Laptop",
+        "checked": true
+      }
+    ],
+    "overview": "This course covers three central elements of Microsoft 365 enterprise administration – Microsoft 365 tenant and service management, Office 365 management, and Microsoft 365 identity management. In Microsoft 365 tenant and service management, you will examine all the key components that must be planned for when designing your Microsoft 365 tenant. Once this planning phase is complete, you will learn how to configure your Microsoft 365 tenant, including your organizational profile, tenant subscription options, component services, user accounts and licenses, and security groups. Finally, you will learn how to manage your tenant, which includes the configuration of tenant roles and managing your tenant health and services.",
+    "audience": [
+      "This course is designed for persons who are aspiring to the Microsoft 365 Enterprise Admin role and have completed one of the Microsoft 365 role-based administrator certification paths"
+    ],
+    "objective": ["-"],
+    "prerequisites": {
+      "explanation": "",
+      "title_list": "",
+      "list": [
+        "Completed a role-based administrator course such as Messaging, Teamwork, Security and Compliance, or Collaboration.",
+        "A proficient understanding of DNS and basic functional experience with Microsoft 365 services.",
+        "A proficient understanding of general IT practices"
+      ]
+    },
+    "outline": [
+      {
+        "module": "Designing Your Microsoft 365 Tenant",
+        "materi": "This module focuses on planning your Microsoft 365 experience. This includes planning for the proper Microsoft 365 subscription, planning for Microsoft 365 in your on-premises infrastructure, planning which identity and authentication solution best fits your organizational requirements, planning your service setup, planning for hybrid environments, and planning your migration to Microsoft 365"
+      },
+      {
+        "module": "Configuring Your Microsoft 365 Tenant",
+        "materi": "While Module 1 focuses on planning your Microsoft 365 tenant, this modules transitions to configuring your tenant. This includes configuring your Microsoft 365 experience, including your organization profile, your tenant subscription, your services and add-ins, and your tenant configuration. You will then learn how to manage Microsoft 365 user accounts and licenses, security groups, and domain services. You will conclude by examining how to leverage FastTrack and partner services"
+      },
+      {
+        "module": "Managing Your Microsoft 365 Tenant",
+        "materi": "In the prior modules, you learned how to plan for and configure your Microsoft 365 tenant. In this module, you will take the next step in the deployment process by learning how to manage your tenant once it has been implemented. This includes configuring your Microsoft 365 administrator roles, managing tenant health and services, and managing user-driven and centralized deployments of Microsoft 365 Apps for enterprise (formerly Office 365 ProPlus)"
+      },
+      {
+        "module": "Office 365 Overview",
+        "materi": "This module examines the primary features and functionality of the key Microsoft 365 services, including Exchange Online, SharePoint Online, Teams, Power Apps, Power Automate, Power BI, and Power Virtual Agents. This module also introduces you additional Microsoft 365 resources and provides an introduction to device management using Microsoft Intune, security baselines, and conditional access"
+      },
+      {
+        "module": "Configuring Microsoft 365 Clients",
+        "materi": "This module introduces you to the Microsoft 365 clients, including mobile clients and clients working offline. This module also examines how to configure Office client connectivity to Microsoft 365, including automatic client configuration, DNS records required for automatic client configuration, configuring Outlook clients, configuring MFA, and troubleshooting client connectivity"
+      },
+      {
+        "module": "Capturing User-Driven Data",
+        "materi": "This module examines how to capture user-driven data using Office Telemetry and Workplace Analytics"
+      },
+      {
+        "module": "Planning and Implementing Identity Synchronization",
+        "materi": "This module provides an in-depth examination of Microsoft 365 Identity synchronization, with a focus on Azure Active Directory Connect. You will learn how to plan for and implement Azure AD Connect and, how to manage synchronized identities, and how to implement password management in Microsoft 365 using multi-factor authentication and self-service password management"
+      },
+      {
+        "module": "Implementing Application and External Access",
+        "materi": "This modules provides a comprehensive look at implementing application and external access. You will learn how to add and manage applications in Azure Active Directory, including how to configure multi-tenant applications. You will then examine how to configure Azure AD Application Proxy, including how to install and register a connector and how to publish an on-premises app for remote access. Finally, you will examine how to design and manage solutions for external access. This includes licensing guidance for Azure AD B2B collaboration, creating a collaborative user, and troubleshooting a B2B collaboration"
+      }
+    ],
+    "thumbnail": "https://res.cloudinary.com/ganbate/image/upload/v1600060947/Metrodata%20Academy/training/ms_power_bi.jpg"
+  },
+  "MS-100T01-A": {
+    "_id": 73,
+    "id": "MS-100T01-A",
+    "title": "Office 365 Management",
+    "duration": "2 Days",
+    "time": "09.00 - 17.00",
+    "price": "3.500.000",
+    "includes": [
+      {
+        "value": "Certificate of attendance",
+        "checked": true
+      },
+      {
+        "value": "Exam certification",
+        "checked": false
+      },
+      {
+        "value": "PC/Laptop",
+        "checked": true
+      }
+    ],
+    "overview": "Learn about Office 365 Management, including key components of Office 365, how to move an organization to Office 365, how to configure Office 365, and how to manage Office 365 ProPlus deployments.",
+    "audience": [
+      "This course is designed for persons who are aspiring to the Microsoft 365 Enterprise Admin role and have completed one of the Microsoft 365 role-based administrator certification paths"
+    ],
+    "objective": ["-"],
+    "prerequisites": {
+      "explanation": "",
+      "title_list": "",
+      "list": [
+        "Completed a role-based administrator course, such as Messaging, Teamwork, Security and Compliance, or Collaboration.",
+        "A proficient understanding of DNS and basic functional experience with Microsoft 365 services.",
+        "A proficient understanding of general IT practices."
+      ]
+    },
+    "outline": [
+      {
+        "module": "Moving Your Organization to Office 365",
+        "materi": "- Exchange Online, - SharePoint Online, - Teams, - Additional Resources"
+      },
+      {
+        "module": "Configuring your Microsoft 365 Tenant",
+        "materi": "- Planning Your Network with Office 365, - Planning Your Service Setup, - Planning Your Hybrid Environment, - Planning Your Migration to Office 365"
+      },
+      {
+        "module": "Configuring Office 365",
+        "materi": "- Office 365 Client Overview, - Configuring Office Client Connectivity to Office 365"
+      },
+      {
+        "module": "Managing Office 365 ProPlus Deployments",
+        "materi": "- Managing User-Driven Client Installations, - Managing Centralized Office 365 ProPlus Deployments, - Configuring Office Telemetry, - Configuring Microsoft Analytics"
+      },
+      {
+        "module": "Hands-On Lab",
+        "materi": "- Exercise 1: Set up a Microsoft 365 trial tenant, - Exercise 2: Prepare an Office 365 ProPlus managed installation, - Exercise 3: Manage user-driven Office 365 ProPlus installations, - Exercise 4: Manage centralized Office 365 ProPlus installations, - Exercise 5: Deploy and configure Office Telemetry components"
+      }
+    ],
+    "thumbnail": "https://res.cloudinary.com/ganbate/image/upload/v1600060947/Metrodata%20Academy/training/ms_power_point.jpg"
   }
 }
