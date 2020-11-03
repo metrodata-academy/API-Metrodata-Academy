@@ -1,0 +1,31 @@
+{
+    "data": [
+        {
+            "image": "https://i.ibb.co/9w22Hcx/Icon-Pendaftaran-Gratis.png",
+            "title": "Pendaftaran Gratis",
+            "content": "Pendaftaran tidak dipungut biaya sama sekali."
+          },
+          {
+            "image": "https://i.ibb.co/CQ42sHk/Icon-E-sertifikat.png",
+            "title": "Sertifikat Kehadiran Gratis",
+            "content": "Dapatkan sertifikat gratis dalam bentuk soft copy."
+          },
+          {
+            "image": "https://i.ibb.co/RbZZrMC/Icon-Kuis-Interaktif.png",
+            "title": "Kuis Interaktif",
+            "content": "Uji pemahaman melalui kuis interaktif."
+          },
+          {
+            "image": "https://i.ibb.co/4R027tD/Icon-Sesi-Pertanyaan.png",
+            "title": "Sesi Tanya Jawab",
+            "content":
+              "Dapat mengajukan pertanyaan dengan berinteraksi lansung dengan pembicara."
+          },
+          {
+            "image": "https://i.ibb.co/3SPf6Fv/Icon-Hadiah-Menarik.png",
+            "title": "Hadiah Menarik",
+            "content":
+              "Berkesempatan mendapatkan hadiah menarik di beberapa sesi khusus."
+          }
+    ]
+}

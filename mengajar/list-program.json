@@ -1,0 +1,23 @@
+{
+    "data": [
+        {
+            "idImage": "imgForMahasiswa",
+            "link": "/metrodata_academy/mengajar_mahasiswa",
+            "title": "Untuk Mahasiswa",
+            "content":
+              "Program ini akan memberimu webinar khusus bagi para mahasiswa."
+          },
+          {
+            "idImage": "imgForDosen",
+            "link": "/metrodata_academy/mengajar_dosen",
+            "title": "Untuk Dosen",
+            "content": "Program ini akan memberimu webinar khusus bagi para dosen."
+          },
+          {
+            "idImage": "imgForKomunitasIT",
+            "link": "/metrodata_academy/mengajar_komunitasIT",
+            "title": "Untuk Komunitas IT",
+            "content": "Pembaharuan pengetahuan IT untuk Komunitas IT di seluruh Indonesia"
+          }
+    ]
+}
