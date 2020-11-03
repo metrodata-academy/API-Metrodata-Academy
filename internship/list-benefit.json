@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "image": "https://i.ibb.co/9w22Hcx/Icon-Pendaftaran-Gratis.png",
+            "title": "Training",
+            "content":
+              "Peserta magang diberikan Training dalam rangka beradaptasi dengan dunia industri, Training diberikan oleh Trainer berpengalaman dan Development Team yang ahli dibidangnya."
+          },
+          {
+            "image": "https://i.ibb.co/CQ42sHk/Icon-E-sertifikat.png",
+            "title": "Project Experiences",
+            "content":
+              "Peserta magang juga akan mendapatkan pengalamanan mengerjakan project yang bisa juga diambil menjadi topik Skripsi."
+          },
+          {
+            "image": "https://i.ibb.co/RbZZrMC/Icon-Kuis-Interaktif.png",
+            "title": "Career",
+            "content":
+              "Peserta magang berkesempatan diangkat menjadi seorang karyawan meskipun dalam masa magang."
+          },
+          {
+            "image": "https://i.ibb.co/4R027tD/Icon-Sesi-Pertanyaan.png",
+            "title": "Allowance",
+            "content":
+              "Uang saku diberikan bagi peserta magang yang ditempatkan di kantor (Jakarta) maupun bagi peserta yang mengerjakan projek."
+          }
+    ]
+}
