@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "id": "MS-030T00-A",
+      "title": "Office 365 Administrator",
+      "overview": "This is a five-day instructor-led training (ILT) course that targets the needs of IT professionals who take part in evaluating, planning, deploying, and operating Microsoft Office 365 services, including its identities, dependencies, requirements, and supporting technologies. This course focuses on skills required to set up an Office 365 tenant, including federation with existing user identities, and skills required to sustain an Office 365 tenant and its users.",
+      "rate": 5.0,
+      "partner": "https://res.cloudinary.com/ganbate/image/upload/v1600053571/Metrodata%20Academy/logo_partner/logo_microsoft.png",
+      "thumbnail": "https://res.cloudinary.com/ganbate/image/upload/v1600060947/Metrodata%20Academy/training/ms_office_365.jpg"
+    },
+    {
+      "id": "RH124",
+      "title": "Red Hat System Administration I",
+      "overview": "The first of two courses covering the core system administration tasks needed to manage Red Hat Enterprise Linux servers",
+      "rate": 5.0,
+      "partner": "https://res.cloudinary.com/ganbate/image/upload/v1600053571/Metrodata%20Academy/logo_partner/logo_redhat.png",
+      "thumbnail": "https://res.cloudinary.com/ganbate/image/upload/v1600060947/Metrodata%20Academy/training/redhat.jpg"
+    },
+    {
+      "id": "D61762",
+      "title": "MySQL for Database Administrators",
+      "overview": "The MySQL for Database Administrators enables DBAs and other database professionals to maximize their organization's investment in MySQL. Learn to configure the MySQL Server, set up replication and security, perform database backups and recoveries, optimize query performance, and configure for high availability.",
+      "rate": 5.0,
+      "partner": "https://res.cloudinary.com/ganbate/image/upload/v1600053571/Metrodata%20Academy/logo_partner/logo_oracle.png",
+      "thumbnail": "https://res.cloudinary.com/ganbate/image/upload/v1600060947/Metrodata%20Academy/training/oracle.jpg"
+    },
+    {
+      "id": "COF",
+      "title": "COBIT® 5 Foundation",
+      "overview": "This three day, instructor-led IT Governance Foundation Course provides an overview the main concepts of IT Governance according to COBIT® 5, ISACA ’s latest governance framework, and how they can be applied. COBIT® 5 provides a comprehensive framework that assists enterprises create optimal value from IT by maintaining a balance between realising benefits and optimising risk levels and resource use. COBIT® 5 enables IT to be governed and managed in a holistic manner for the entire enterprise, taking in the full end-to-end business and IT functional areas of responsibility, considering the IT-related interests of internal and external stakeholders.",
+      "rate": 5.0,
+      "partner": "",
+      "thumbnail": "https://res.cloudinary.com/ganbate/image/upload/v1600060947/Metrodata%20Academy/training/cobit_5.jpg"
+    },
+    {
+      "id": "PHPF",
+      "title": "PHP Fundamental",
+      "overview": "This five-day instructor-led course provides students with the knowledge and skills of fundamental PHP language. This is the first course in the Metrodata Training series of PHP and will serve as the entry point for other PHP courses covering every aspect of programming with PHP language",
+      "rate": 5.0,
+      "partner": "",
+      "thumbnail": "https://res.cloudinary.com/ganbate/image/upload/v1600060947/Metrodata%20Academy/training/php.jpg"
+    }
+  ]
+}
