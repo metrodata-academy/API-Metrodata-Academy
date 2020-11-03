@@ -1,0 +1,32 @@
+{
+    "data": [{
+            "id": 1,
+            "benefit": [{
+                    "title": "Mentor Profesional",
+                    "resume": "Diajarin oleh Mentor Professional",
+                    "icon": "https://res.cloudinary.com/ganbate/image/upload/v1600399151/Metrodata%20Academy/mitc/ic_tunjangan.jpg"
+                },
+                {
+                    "title": "Pengalaman",
+                    "resume": "Pengalaman development dalam team",
+                    "icon": "https://res.cloudinary.com/ganbate/image/upload/v1600399151/Metrodata%20Academy/mitc/ic_penghargaan.jpg"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "benefit": [{
+                    "title": "Training",
+                    "resume": "Free Training selama 2 bulan",
+                    "icon": "https://res.cloudinary.com/ganbate/image/upload/v1600399151/Metrodata%20Academy/mitc/ic_training.jpg"
+                },
+                {
+                    "title": "Karyawan",
+                    "resume": "Berpeluang besar untuk menjadi karyawan",
+                    "icon": "https://res.cloudinary.com/ganbate/image/upload/v1600399151/Metrodata%20Academy/mitc/ic_karyawan.jpg"
+                }
+            ]
+
+        }
+    ]
+}
