@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "alt": "Logo Oracle",
+      "image": "https://res.cloudinary.com/ganbate/image/upload/v1600053571/Metrodata%20Academy/logo_partner/logo_oracle.png"
+    },
+    {
+      "alt": "Logo Microsoft",
+      "image": "https://res.cloudinary.com/ganbate/image/upload/v1600053571/Metrodata%20Academy/logo_partner/logo_microsoft.png"
+    },
+    {
+      "alt": "Logo CompTia",
+      "image": "https://res.cloudinary.com/ganbate/image/upload/v1600053571/Metrodata%20Academy/logo_partner/logo_comptia.png"
+    },
+    {
+      "alt": "Logo Csa",
+      "image": "https://res.cloudinary.com/ganbate/image/upload/v1600053571/Metrodata%20Academy/logo_partner/logo_csa.png"
+    },
+    {
+      "alt": "Logo Ec Council",
+      "image": "https://res.cloudinary.com/ganbate/image/upload/v1600053571/Metrodata%20Academy/logo_partner/logo_eccouncil.png"
+    },
+    {
+      "alt": "Logo Quint",
+      "image": "https://res.cloudinary.com/ganbate/image/upload/c_scale,h_100/v1600053570/Metrodata%20Academy/logo_partner/logo_quint.png"
+    },
+    {
+      "alt": "Logo Red Hat",
+      "image": "https://res.cloudinary.com/ganbate/image/upload/v1600053571/Metrodata%20Academy/logo_partner/logo_redhat.png"
+    },
+    {
+      "alt": "Logo Bmc",
+      "image": "https://res.cloudinary.com/ganbate/image/upload/v1600053571/Metrodata%20Academy/logo_partner/logo_bmc.png"
+    }
+  ]
+}
