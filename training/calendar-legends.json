@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "name": "Microsoft",
+      "color": "#ffffff",
+      "bgColor": "#3498DB",
+      "borderColor": "#3498DB"
+    },
+    {
+      "id": "2",
+      "name": "Oracle",
+      "color": "#ffffff",
+      "bgColor": "#e84545",
+      "borderColor": "#e84545"
+    },
+    {
+      "id": "3",
+      "name": "Red Hat",
+      "color": "#ffffff",
+      "bgColor": "#ff2e63",
+      "borderColor": "#ff2e63"
+    },
+    {
+      "id": "4",
+      "name": "Quint (IT Service Management)",
+      "color": "#ffffff",
+      "bgColor": "#17b978",
+      "borderColor": "#17b978"
+    },
+    {
+      "id": "5",
+      "name": "EC-Council",
+      "color": "#ffffff",
+      "bgColor": "#ff0000 ",
+      "borderColor": "#ff0000 "
+    },
+    {
+      "id": "6",
+      "name": "Other",
+      "color": "#ffffff",
+      "bgColor": "#99A3A4 ",
+      "borderColor": "#99A3A4 "
+    }
+  ]
+}
