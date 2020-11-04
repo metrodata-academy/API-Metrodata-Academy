@@ -5484,5 +5484,2249 @@
       }
     ],
     "thumbnail": "https://res.cloudinary.com/ganbate/image/upload/v1600060947/Metrodata%20Academy/training/ms_office_365.jpg"
+  },
+  "D105110": {
+    "_id": 62,
+    "id": "D105110",
+    "title": "Oracle Database 19c: New Features for Administrators",
+    "duration": "2 Days",
+    "time": "09.00 - 17.00",
+    "price": "6.831.644",
+    "includes": [
+      {
+        "value": "Certificate of attendance",
+        "checked": true
+      },
+      {
+        "value": "Exam certification",
+        "checked": false
+      },
+      {
+        "value": "PC/Laptop",
+        "checked": true
+      }
+    ],
+    "overview": "The course provides the Oracle Database 19c new features and enhancements related to database overall, security, availability, performance, data warehousing, and diagnosability. In the lessons, you learn the new and enhanced features of Oracle Database 19c amongst different areas such as database overall, security, availability, performance, big data and warehousing, and diagnosability.",
+    "audience": ["Oracle Database Administrators", "System Administrators", "Developers"],
+    "objective": [
+      "Understand the concept, benefits, configuration, and usage of the new features and enhancements in database overall area",
+      "Understand the concept, benefits, configuration, and usage of the new features and enhancements in the security area",
+      "Understand the concept, benefits, configuration, and usage of the new features and enhancements in the availability area",
+      "Understand the concept, benefits, configuration, and usage of the new features and enhancements in the performance area",
+      "Understand the concept, benefits, configuration, and usage of the new features and enhancements in big data and data warehousing area",
+      "Understand the concept, benefits, configuration, and usage of the new features and enhancements in diagnosability area",
+      "Understand the concept, benefits, configuration, and usage of the new features and enhancements in sharding area"
+    ],
+    "prerequisites": {
+      "explanation": "",
+      "title_list": "",
+      "list": [
+        "Oracle Database 12c R2: New Features for Administrators Part 1",
+        "Oracle Database 12c R2: New Features for Administrators Part 2",
+        "Oracle Database 18c: New Features for Administrators"
+      ]
+    },
+    "outline": [
+      {
+        "module": "",
+        "materi": "- Using General Database Overall Enhancements, - Using Security Enhancements, - Using Availability Enhancements, - Using Performance Enhancements, - Using Big Data and Data Warehousing Enhancements, - Using Diagnosability Enhancements, - Sharding Enhancements"
+      }
+    ],
+    "thumbnail": "https://res.cloudinary.com/ganbate/image/upload/v1600060947/Metrodata%20Academy/training/ms_excel.jpg"
+  },
+  "D101882": {
+    "_id": 63,
+    "id": "D101882",
+    "title": "Oracle Database 18c: New Features for Administrators",
+    "duration": "3 Days",
+    "time": "09.00 - 17.00",
+    "price": "10.247.466",
+    "includes": [
+      {
+        "value": "Certificate of attendance",
+        "checked": true
+      },
+      {
+        "value": "Exam certification",
+        "checked": false
+      },
+      {
+        "value": "PC/Laptop",
+        "checked": true
+      }
+    ],
+    "overview": "This course provides an overview of the Oracle Database 18c new features and enhancements related to Multitenant architecture, security, RMAN, general database areas, performance, data warehousing and Sharding.",
+    "audience": ["Database Administrator", "Developer"],
+    "objective": [
+      "Use new features of the Multitenant architecture",
+      "Understand and benefit from new features of the Database Security",
+      "Benefit from new features of RMAN",
+      "Use new features of General Database",
+      "Configure and use new features in Performance",
+      "Manipulate new features of the Data Warehousing",
+      "Understand enhancements in Sharding"
+    ],
+    "prerequisites": {
+      "explanation": "",
+      "title_list": "",
+      "list": [
+        "Oracle Database 12c R2: New Features for Administrators Part 1 Ed 1",
+        "Oracle Database 12c R2: New Features for Administrators Part 2 Ed 1",
+        "Oracle Database 12c R2: High Availability New Features Ed 1",
+        "Knowledge of Oracle Database 11g R2 and 12c"
+      ]
+    },
+    "outline": [
+      {
+        "module": "Leveraging Multitenant Enhancements",
+        "materi": "- Manage application PDBs fleet, - Manage PDB snapshots carousel, - Benefit from dynamic container map, - Understand lockdown profile inheritance and create and use static and dynamic lockdown profiles, - Use refreshable copy PDB switchover"
+      },
+      {
+        "module": "Managing Security",
+        "materi": "- Create and use a schema only account, - Isolate PDB keystores, - Export and import database links, - Configure encryption of sensitive data in Database Replay files, - Explain direct Active Directory Services integration"
+      },
+      {
+        "module": "Using RMAN Enhancements",
+        "materi": "- Reuse preplugin backups before and after a non-CDB conversion as a PDB or a PDB migration to another CDB, - Clone active PDB into another CDB using DUPLICATE and duplicate an on-premises CDB to Cloud as encrypted"
+      },
+      {
+        "module": "Applying General Database Enhancements",
+        "materi": "- Manage private temporary tables, - Use the new Data Pump Import option of the DATA_OPTIONS parameter, - Online modification of partitioning and subpartitioning strategy, - Merging of partitions and subpartitions online, - Generate batched DDL by using DBMS_METADATA_DIFF package"
+      },
+      {
+        "module": "Improving Performance",
+        "materi": "- Configure Automatic In-Memory, - Use IMEs window capture, - Describe the new SQL Tuning Set package, - Describe the concurrency of SQL execution of SQL Performance Analyzer tasks and Result Set Validation"
+      },
+      {
+        "module": "Handling Enhancements in Big Data and Data Warehousing",
+        "materi": "- Query inlined external tables and manage in-memory external tables, - Use analytic view new query capabilities, - Create and use polymorphic table functions"
+      },
+      {
+        "module": "Describing Sharding Enhancements",
+        "materi": "- Describe the user-defined sharding method, - Understand support for PDBs as shards, - Describe Oracle GoldenGate enhancements for Oracle Sharding support, - Query system objects across shards, - Describe improved multi-shard query enhancements"
+      }
+    ],
+    "thumbnail": "https://res.cloudinary.com/ganbate/image/upload/v1600060947/Metrodata%20Academy/training/linux.jpg"
+  },
+  "D102146": {
+    "_id": 64,
+    "id": "D102146",
+    "title": "Oracle Database 18c: High Availability New Features",
+    "duration": "1 Days",
+    "time": "09.00 - 17.00",
+    "price": "4.269.778",
+    "includes": [
+      {
+        "value": "Certificate of attendance",
+        "checked": true
+      },
+      {
+        "value": "Exam certification",
+        "checked": false
+      },
+      {
+        "value": "PC/Laptop",
+        "checked": true
+      }
+    ],
+    "overview": "In the Oracle Database 18c: High Availability New Features course, students will learn about new software features and improvements found in Oracle Clusterware, Oracle ASM, Real Application Clusters, and Oracle Data Guard. By enrolling in this course, you'll learn how to better implement High availability features found in Oracle Clusterware, ASM, ACFS, RAC and Data Guard in your own computing environment.",
+    "audience": ["Administrator", "Database Administrator", "End User"],
+    "objective": [
+      "Use additional enhancements for Oracle ACFS and ADVM",
+      "Leverage Oracle RAC new featuers found in this release",
+      "Configure and use Oracle Data Guard new features",
+      "Use new Data Guard Broker commands",
+      "Configure and implement Oracle Clusterware enhancments",
+      "Use and manage ASM using the new features in this release"
+    ],
+    "prerequisites": {
+      "explanation": "",
+      "title_list": "",
+      "list": [
+        "Oracle Database 12c R2: Clusterware Administration Ed 2",
+        "CDT Oracle Database 12c R2: ASM Administration",
+        "Oracle Database 12c R2: RAC Administration Ed 2",
+        "Oracle Database 12c: Data Guard Administration Ed 1",
+        "Oracle Database 12c R2: Managing Multitenant Architecture Ed 2",
+        "Working knowledge of Oracle Database 12c R2 Clusterware, ASM and RAC"
+      ]
+    },
+    "outline": [
+      {
+        "module": "Oracle Clusterware",
+        "materi": "- Configure and manage Cross-Domain Protocol Proxies, - Implement Shared SCAN VIPs"
+      },
+      {
+        "module": "Oracle ASM",
+        "materi": "- Create point-in-time database clones using Oracle ASM file group enhancements, - Convert normal or high redundancy disk groups to flex disk groups, - Enable/disable Hardware Assisted Resilient Data (HARD) checking"
+      },
+      {
+        "module": "Oracle ACFS",
+        "materi": "- Manage role reversal for primary and standby ACFS sites, - Replicate a mounted file system or a snapshot of a mounted file system, - Incorporate updated acfsutil commands for better management of Oracle ACFS snapshots"
+      },
+      {
+        "module": "Oracle RAC",
+        "materi": "- Describe the benefits of Continuous Application Availability, - Perform an Image-based Oracle RAC Database Installation, - List the benefits of Read-Only Oracle Homes, - Implement Private Temporary Tables on Active Data Guard Instances"
+      },
+      {
+        "module": "Oracle Data Guard",
+        "materi": "- Database Nologging Enhancements, - Explore New Data Guard Broker Commands, - List and describe the new Data Guard Configurable Properties"
+      }
+    ],
+    "thumbnail": "https://res.cloudinary.com/ganbate/image/upload/v1600060947/Metrodata%20Academy/training/docker.jpg"
+  },
+  "D104449": {
+    "_id": 65,
+    "id": "D104449",
+    "title": "Oracle Database 18c: Backup and Recovery Workshop",
+    "duration": "5 Days",
+    "time": "09.00 - 17.00",
+    "price": "17.079.110",
+    "includes": [
+      {
+        "value": "Certificate of attendance",
+        "checked": true
+      },
+      {
+        "value": "Exam certification",
+        "checked": false
+      },
+      {
+        "value": "PC/Laptop",
+        "checked": true
+      }
+    ],
+    "overview": "The student begins by gaining a deeper understanding of possibly the most important job of a DBA – backup and recovery. The concepts and architecture that support backup and recovery, along with implementation in various ways and situations are covered in detail. Students gain knowledge of the Recovery Manager (RMAN) command-line interface for various backup, failure, restore, and recovery scenarios, including data duplication. Extensive hands-on practices and workshop scenarios provide the student with experience in a realistic technical environment. This course includes an interactive workshop that provide participants with opportunities to diagnose and recover from several failure scenarios, based on backup and recovery case studies.",
+    "audience": ["Administrator", "Database Administrator", "Implementer"],
+    "objective": [
+      "Describe the Oracle Database architecture components related to backup and recovery operations",
+      "Describe Oracle Database backup methods and recovery operations that can be used to resolve database failure",
+      "Plan effective backup and recovery procedures",
+      "Configure the database for recoverability",
+      "Use Recovery Manager (RMAN) to create backups and perform recovery operations",
+      "Use the Data Recovery Advisor to diagnose and repair failures",
+      "Perform an encrypted database backup and restore",
+      "Perform tablespace point-in-time recovery",
+      "Use Oracle Flashback Technologies to recover from human error"
+    ],
+    "prerequisites": {
+      "explanation": "",
+      "title_list": "",
+      "list": [
+        "Basic knowledge of Linux operating system",
+        "Oracle Database 18c: Administration Workshop Ed 1",
+        "Knowledge of SQL and PL/SQL (for DBA use)",
+        "Knowledge of Oracle Database 18c"
+      ]
+    },
+    "outline": [
+      { "module": "", "materi": "Introduction" },
+      { "module": "", "materi": "Getting Started" },
+      { "module": "", "materi": "Configuring for Recoverablility" },
+      { "module": "", "materi": "Using the RMAN Recovery Catalog" },
+      { "module": "", "materi": "Backup Strategies and Terminology" },
+      { "module": "", "materi": "Performing Backups" },
+      { "module": "", "materi": "Improving Your Backups" },
+      { "module": "", "materi": "Using RMAN-Encrypted Backups" },
+      { "module": "", "materi": "Diagnosing Failures" },
+      { "module": "", "materi": "Restore and Recovery Concepts" },
+      { "module": "", "materi": "Performing Complete Recovery" },
+      { "module": "", "materi": "Performing Point-in-Time Recovery" },
+      { "module": "", "materi": "Additional Recovery Operations" },
+      { "module": "", "materi": "Using Flashback Technologies" },
+      { "module": "", "materi": "Using Flashback Database" },
+      { "module": "", "materi": "Transporting Data" },
+      { "module": "", "materi": "Performing Point-in-Time Recovery" },
+      { "module": "", "materi": "Duplicating a Database" },
+      { "module": "", "materi": "RMAN Troubleshooting and Tuning" },
+      { "module": "", "materi": "Backup and Recovery Workshop" }
+    ],
+    "thumbnail": "https://res.cloudinary.com/ganbate/image/upload/v1600060947/Metrodata%20Academy/training/ms_power_bi.jpg"
+  },
+  "D81599": {
+    "_id": 66,
+    "id": "D81599",
+    "title": "Oracle Database 12c: Security",
+    "duration": "5 Days",
+    "time": "09.00 - 17.00",
+    "price": "21.348.889",
+    "includes": [
+      {
+        "value": "Certificate of attendance",
+        "checked": true
+      },
+      {
+        "value": "Exam certification",
+        "checked": false
+      },
+      {
+        "value": "PC/Laptop",
+        "checked": true
+      }
+    ],
+    "overview": "This Oracle Database 12c: Security training teaches you how you can use Oracle Database features to meet the security, privacy and compliance requirements of your organization. You'll get the chance to interact with expert Oracle University instructors through a combination of instruction and hands-on exercises that reinforce new concepts.",
+    "audience": [
+      "Administrator",
+      "Database Administrator",
+      "Network Administrator",
+      "Security Specialist",
+      "Systems Administrator"
+    ],
+    "objective": [
+      "Find solutions to secure database access through the network",
+      "Configure appropriate authentication for the database or enterprise users in the organization",
+      "Control data access and integrity in their organization using the appropriate feature or option or product like privileges or Oracle Label Security",
+      "Ensure data confidentiality using an encryption solution like Transparent Data Encryption, or Data Redaction or Oracle Data Masking",
+      "Audit user actions using any of the auditing features like unified auditing",
+      "Analyze any security risks of their organization",
+      "Find appropriate Oracle solutions to meet the security, privacy and compliance requirements of their organization"
+    ],
+    "prerequisites": {
+      "explanation": "",
+      "title_list": "",
+      "list": [
+        "Perform RMAN backup and recovery",
+        "Use Oracle Data Pump export and import",
+        "Create and manage users, roles, and privileges",
+        "Administer listeners",
+        "Good knowledge of Oracle Database"
+      ]
+    },
+    "outline": [
+      {
+        "module": "",
+        "materi": "Introduction"
+      },
+      {
+        "module": "",
+        "materi": "Understanding Security Requirements"
+      },
+      {
+        "module": "",
+        "materi": "Choosing Security Solutions"
+      },
+      {
+        "module": "",
+        "materi": "Implementing Basic Database Security"
+      },
+      {
+        "module": "",
+        "materi": "Securing Data on the Network "
+      },
+      {
+        "module": "",
+        "materi": "Using Basic and Strong User Authentication"
+      },
+      {
+        "module": "",
+        "materi": "Configuring Global User Authentication"
+      },
+      {
+        "module": "",
+        "materi": "Using Proxy Authentication"
+      },
+      {
+        "module": "",
+        "materi": "Using Privileges and Roles"
+      },
+      {
+        "module": "",
+        "materi": "Using Privilege Analysis"
+      },
+      {
+        "module": "",
+        "materi": "Using Application Contexts"
+      },
+      {
+        "module": "",
+        "materi": "Implementing Virtual Private Database"
+      },
+      {
+        "module": "",
+        "materi": "Implementing Oracle Label Security"
+      },
+      {
+        "module": "",
+        "materi": "Redacting Data"
+      },
+      {
+        "module": "",
+        "materi": "Using Oracle Data Masking"
+      },
+      {
+        "module": "",
+        "materi": "Using Transparent Sensitive Data Protection"
+      },
+      {
+        "module": "",
+        "materi": "Encryption Concepts and Solutions"
+      },
+      {
+        "module": "",
+        "materi": "Encrypting with DBMS_CRYPTO Package"
+      },
+      {
+        "module": "",
+        "materi": "Using Transparent Data Encryption"
+      },
+      {
+        "module": "",
+        "materi": "Database Storage Security"
+      },
+      {
+        "module": "",
+        "materi": "Using Unified Audit"
+      },
+      {
+        "module": "",
+        "materi": "Using Fine-Grained Audit"
+      }
+    ],
+    "thumbnail": "https://res.cloudinary.com/ganbate/image/upload/v1600060947/Metrodata%20Academy/training/ms_power_point.jpg"
+  },
+  "D50079": {
+    "_id": 67,
+    "id": "D50079",
+    "title": "Oracle Database 11g: Administration Workshop II Release 2",
+    "duration": "5 Days",
+    "time": "09.00 - 17.00",
+    "price": "17.079.110",
+    "includes": [
+      {
+        "value": "Certificate of attendance",
+        "checked": true
+      },
+      {
+        "value": "Exam certification",
+        "checked": false
+      },
+      {
+        "value": "PC/Laptop",
+        "checked": true
+      }
+    ],
+    "overview": "This Oracle Database 11g: Administration Workshop II Release 2 training takes the database administrator beyond the basic tasks covered in the first workshop. You'll begin by gaining a deep understanding of the most important responsibilities a DBA has: performing backup and recovery.",
+    "audience": ["Administrator", "Database Administrator", "Implementer"],
+    "objective": [
+      "Configure the Oracle Database for optimal recovery",
+      "Configure the database instance such that resources are appropriately allocated among sessions and tasks",
+      "Schedule jobs to run inside or outside of the database",
+      "Use compression to optimize database storage and duplicate a database",
+      "Back and recover a database (and its parts) with RMAN (command-line and Enterprise Manager)",
+      "Use flashback technology to view past states of data and to revert either objects or the entire database back to a past state",
+      "Use an appropriate and flexible memory configuration for your database",
+      "Identify burdensome database sessions and poorly performing SQL"
+    ],
+    "prerequisites": {
+      "explanation": "",
+      "title_list": "",
+      "list": [
+        "Working knowledge of SQL and how to use PL/SQL packages",
+        "Oracle Database 11g: Administration Workshop I Ed 2",
+        "Oracle Database 11g Database Administration"
+      ]
+    },
+    "outline": [
+      {
+        "module": "",
+        "materi": "Core Concepts and Tools of the Oracle Database"
+      },
+      {
+        "module": "",
+        "materi": "Configuring for Recoverability"
+      },
+      {
+        "module": "",
+        "materi": "Using the RMAN Recovery Catalog"
+      },
+      {
+        "module": "",
+        "materi": "Configuring Backup Settings"
+      },
+      {
+        "module": "",
+        "materi": "Creating Backups with RMAN"
+      },
+      {
+        "module": "",
+        "materi": "Restore and Recovery Task"
+      },
+      {
+        "module": "",
+        "materi": "Using RMAN to Perform Recovery"
+      },
+      {
+        "module": "",
+        "materi": "Monitoring and Tuning RMAN"
+      },
+      {
+        "module": "",
+        "materi": "Diagnosing the Database"
+      },
+      {
+        "module": "",
+        "materi": "Using Flashback Technology I"
+      },
+      {
+        "module": "",
+        "materi": "Using Flashback Technology II"
+      },
+      {
+        "module": "",
+        "materi": "Performing Flashback Database"
+      },
+      {
+        "module": "",
+        "materi": "Managing Memory"
+      },
+      {
+        "module": "",
+        "materi": "Managing Database Performance"
+      },
+      {
+        "module": "",
+        "materi": "Managing Performance by SQL Tuning"
+      },
+      {
+        "module": "",
+        "materi": "Managing Resources"
+      },
+      {
+        "module": "",
+        "materi": "Automating Tasks with the Scheduler"
+      },
+      {
+        "module": "",
+        "materi": "Managing Space in Blocks"
+      },
+      {
+        "module": "",
+        "materi": "Managing Space in Segments"
+      },
+      {
+        "module": "",
+        "materi": "Managing Space for the Database"
+      },
+      {
+        "module": "",
+        "materi": "Duplicating a Database"
+      }
+    ],
+    "thumbnail": "https://res.cloudinary.com/ganbate/image/upload/v1600060947/Metrodata%20Academy/training/redhat.jpg"
+  },
+  "D50102": {
+    "_id": 68,
+    "id": "D50102",
+    "title": "Oracle Database 11g: Administration Workshop I Release 2",
+    "duration": "5 Days",
+    "time": "09.00 - 17.00",
+    "price": "17.079.110",
+    "includes": [
+      {
+        "value": "Certificate of attendance",
+        "checked": true
+      },
+      {
+        "value": "Exam certification",
+        "checked": false
+      },
+      {
+        "value": "PC/Laptop",
+        "checked": true
+      }
+    ],
+    "overview": "This Oracle Database 11g: Administration Workshop I Release 2 course explores the fundamentals of basic database administration. Expert Oracle University instructors will reinforce topics with structured hands-on practices that will prepare you for the corresponding Oracle Certified Associate exam.",
+    "audience": ["Administrator", "Database Administrator", "Developer", "Implementer"],
+    "objective": [
+      "Create and administer user accounts",
+      "Manage data concurrency",
+      "Perform basic backup and recovery of a database",
+      "Describe Oracle Database Architecture",
+      "Install Oracle Grid Infrastructure",
+      "Install and configure Oracle Database 11g",
+      "Configure Oracle Net services",
+      "Monitor performance",
+      "Monitor and administer undo data",
+      "Manage the database storage structures"
+    ],
+    "prerequisites": {
+      "explanation": "",
+      "title_list": "",
+      "list": [
+        "Taken Oracle PL/SQL course or equivalent experience",
+        "Taken Oracle Introduction to SQL course or equivalent experience"
+      ]
+    },
+    "outline": [
+      { "module": "", "materi": "Exploring the Oracle Database Architecture" },
+      { "module": "", "materi": "Installing your Oracle Software" },
+      { "module": "", "materi": "Creating an Oracle Database" },
+      { "module": "", "materi": "Managing the Oracle Database Instance" },
+      { "module": "", "materi": "Manage the ASM Instance" },
+      { "module": "", "materi": "Configuring the Oracle Network Environment" },
+      { "module": "", "materi": "Managing Database Storage Structures" },
+      { "module": "", "materi": "Administering User Security" },
+      { "module": "", "materi": "Managing Data Concurrency" },
+      { "module": "", "materi": "Managing Undo Data" },
+      { "module": "", "materi": "Implementing Oracle Database Auditing" },
+      { "module": "", "materi": "Database Maintenance" },
+      { "module": "", "materi": "Performance Management" },
+      { "module": "", "materi": "Backup and Recovery Concepts" },
+      { "module": "", "materi": "Performing Database Backups" },
+      { "module": "", "materi": "Performing Database Recovery" },
+      { "module": "", "materi": "Moving Data" },
+      { "module": "", "materi": "Working with Support" }
+    ],
+    "thumbnail": "https://res.cloudinary.com/ganbate/image/upload/v1600060947/Metrodata%20Academy/training/ms_office_365.jpg"
+  },
+  "10984-B": {
+    "_id": 69,
+    "id": "10984-B",
+    "title": "Deploying and Managing Office 365 Hybrid Deployments",
+    "duration": "3 Days",
+    "time": "09.00 - 17.00",
+    "price": "5.500.000",
+    "includes": [
+      {
+        "value": "Certificate of attendance",
+        "checked": true
+      },
+      {
+        "value": "Exam certification",
+        "checked": false
+      },
+      {
+        "value": "PC/Laptop",
+        "checked": true
+      }
+    ],
+    "overview": "This is a 3-day ILT course that targets the needs of IT professionals who take part in administering, configuring, and operating Office 365 services in hybrid environments, where part of the infrastructure is hosted on-premises. This course also includes management of identities, authentication, and supporting technologies for Office 365. This course focuses on the skills required to administer and troubleshoot an Office 365 tenant, and key services of Office 365 such as Exchange Online, SharePoint Online, and Skype for Business, as well as services such as Azure Multi-Factor Authentication (MFA), Azure Active Directory Identity Protection, and Azure Active Directory Privileged Identity Management. All these services are covered from the hybrid aspect. This course provides knowledge on how to use Office 365 services for both cloud and on-premises resources.",
+    "audience": [
+      "The audience for this course includes IT professionals and system administrators who want to learn how to implement and maintain Office 365 in hybrid scenarios, where one part of collaboration infrastructure is located on-premises and integrated with Office 365 services. These professionals should have at least 3 years of experience working in their respective field's specifically, previous knowledge about Exchange Server, SharePoint Server, and Skype for Business Server (for example, Lync server) is expected. Students who attend this course are also expected to have a fairly broad understanding of Office 365 services administration in general, as well as several on-premises technologies such as DNS and AD DS"
+    ],
+    "objective": ["-"],
+    "prerequisites": {
+      "explanation": "",
+      "title_list": "In addition to their professional experience, students who attend this training should already have the following technical knowledge:",
+      "list": [
+        "Minimum of two years of experience administering the Windows Server operating system, including Windows Server 2012 or later.",
+        "Minimum of one year of experience working with Active Directory Domain Services.",
+        "Minimum of one year of experience working with name resolution, including Domain Name System (DNS).",
+        "Experience working with certificates, including public key infrastructure (PKI) certificates",
+        "Experience working with Windows PowerShell.",
+        "Experience working with Exchange Server 2013 or later, Lync 2013 Server or Skype for Business Server2015, and SharePoint Server 2013 or later.",
+        "Experience working with Office 365 key services such as Exchange Online, Skype for Business and SharePoint Online."
+      ]
+    },
+    "outline": [
+      {
+        "module": "Introduction to Office 365 administration and licensing",
+        "materi": "This module describes Office 365, its administration tools, and licensing options"
+      },
+      {
+        "module": "Deploying and configuring directory synchronization",
+        "materi": "This module explains how to describe and configure directory synchronization in an Office 365 deployment"
+      },
+      {
+        "module": "Exchange Server hybrid deployment planning",
+        "materi": "This module explains how to plan hybrid configuration with Exchange Server and Exchange Online"
+      },
+      {
+        "module": "Exchange Server hybrid deployment",
+        "materi": "This module explains how to perform Exchange Server hybrid configuration deployment"
+      },
+      {
+        "module": "Skype for Business and Teams in Office 365 hybrid deployment",
+        "materi": "This module explains how to deploy Skype for Business and Teams in a hybrid deployment"
+      },
+      {
+        "module": "SharePoint and OneDrive for Business hybrid deployment",
+        "materi": "This module explains how to deploy SharePoint and OneDrive for Business in hybrid environments"
+      },
+      {
+        "module": "Deploying additional Office 365 services in a hybrid deployment",
+        "materi": "This module explains how to deploy Azure MFA, Identity Protection, and Azure Information Protection"
+      },
+      {
+        "module": "Authentication options in hybrid deployments",
+        "materi": "This module explains how to deploy various authentication methods in a hybrid Office 365 deployment"
+      }
+    ],
+    "thumbnail": "https://res.cloudinary.com/ganbate/image/upload/v1600060947/Metrodata%20Academy/training/ms_excel.jpg"
+  },
+  "10997-C": {
+    "_id": 70,
+    "id": "10997-C",
+    "title": "Office 365 Administration and Troubleshooting",
+    "duration": "3 Days",
+    "time": "09.00 - 17.00",
+    "price": "5.500.000",
+    "includes": [
+      {
+        "value": "Certificate of attendance",
+        "checked": true
+      },
+      {
+        "value": "Exam certification",
+        "checked": false
+      },
+      {
+        "value": "PC/Laptop",
+        "checked": true
+      }
+    ],
+    "overview": "This is a three-day Instructor Led Training (ILT) course that targets the needs of information technology (IT) professionals who take part in administering, configuring, troubleshooting, and operating Office 365 services, including its identities, dependencies, requirements, and supporting technologies. This course focuses on skills required to administer and troubleshoot Office 365 tenant and key services of Office 365, such as Exchange Online, SharePoint Online and Skype for Business and Teams. It also covers security and compliance features of Office 365.",
+    "audience": [
+      "This course is intended for IT professionals and system administrators who want to learn about administration and troubleshooting techniques in Office 365. These professionals should have at least three years of experience working in their respective fields: ideally in the areas of system administration, network administration, and messaging"
+    ],
+    "objective": ["-"],
+    "prerequisites": {
+      "explanation": "",
+      "title_list": "Before attending this course, students must have:",
+      "list": [
+        "A minimum of two years of experience administering the Windows Server operating system, including Windows Server 2012 or newer.",
+        "A minimum of one year of experience working with Active Directory Domain Services (AD DS).",
+        "A minimum of one year of experience working with name resolution, including DNS.",
+        "Experience working with certificates, including public key infrastructure (PKI) certificates.",
+        "Experience working with Windows PowerShell.",
+        "Experience working with Microsoft Exchange Server 2013 or newer, Microsoft Lync 2013 Server or Skype for Business 2015 Server, and Microsoft SharePoint Server 2013 or newer is beneficial but not required."
+      ]
+    },
+    "outline": [
+      {
+        "module": "Office 365 services overview",
+        "materi": "This module describes the features of Office 365 and identifies recent improvements to the service. It also identifies licensing options, describes the process of Office 365 tenant configuration, and lists appropriate Office 365 client options"
+      },
+      {
+        "module": "Office 365 administration, tools, and techniques",
+        "materi": "This module describes how to manage Office 365 by using the administrative portals and Windows PowerShell. It also explains how to manage administrative access and troubleshoot administration in Office 365"
+      },
+      {
+        "module": "Administering and troubleshooting directory synchronization and directory objects",
+        "materi": "This module describes directory synchronization and federation. The module explains how to manage Microsoft Azure Active Directory Connect (Azure AD Connect) and user and group objects in Office 365. Additionally, it describes how to troubleshoot objects and directory synchronization in Office 365"
+      },
+      {
+        "module": "Administering and troubleshooting Exchange Online",
+        "materi": "This module describes the subscription options and roles in Exchange Online. It explains how to administer Exchange Online recipients and client access policies in Exchange Online and how to troubleshoot Exchange Online"
+      },
+      {
+        "module": "Administering and troubleshooting Skype for Business Online and Teams",
+        "materi": "This module describes Skype for Business Online and Teams. It explains how to administer, manage, and troubleshoot Skype for Business Online and Teams"
+      },
+      {
+        "module": "Administering and troubleshooting SharePoint Online",
+        "materi": "This module describes how to configure SharePoint Online settings and site collections and external user access to SharePoint Online. It also explains how to manage Microsoft OneDrive for Business synchronization and how to troubleshoot SharePoint Online"
+      },
+      {
+        "module": "Planning and deploying Office 365 ProPlus",
+        "materi": "This module describes Office 365 ProPlus. It also explains how to plan and manage user-driven Office 365 ProPlus deployments and how to troubleshoot the deployments"
+      },
+      {
+        "module": "Administering and troubleshooting compliance and security in Office 365",
+        "materi": "This module describes the compliance features in Office 365. It explains how to administer Azure Information Protection and the compliance features in Office 365, how to configure and administer email security in Office 365, and how to troubleshoot Office 365 compliance and protection"
+      }
+    ],
+    "thumbnail": "https://res.cloudinary.com/ganbate/image/upload/v1600060947/Metrodata%20Academy/training/linux.jpg"
+  },
+  "MS-101T00-A": {
+    "_id": 71,
+    "id": "MS-101T00-A",
+    "title": "Microsoft 365 Mobility and Security",
+    "duration": "5 Days",
+    "time": "09.00 - 17.00",
+    "price": "8.500.000",
+    "includes": [
+      {
+        "value": "Certificate of attendance",
+        "checked": true
+      },
+      {
+        "value": "Exam certification",
+        "checked": false
+      },
+      {
+        "value": "PC/Laptop",
+        "checked": true
+      }
+    ],
+    "overview": "This course covers three central elements of Microsoft 365 enterprise administration – Microsoft 365 security management, Microsoft 365 compliance management, and Microsoft 365 device management. In Microsoft 365 security management, you will examine all the common types of threat vectors and data breaches facing organizations today, and you will learn how Microsoft 365’s security solutions address these security threats. You will be introduced to the Microsoft Secure Score, as well as to Azure Active Directory Identity Protection. You will then learn how to manage the Microsoft 365 security services, including Exchange Online Protection, Advanced Threat Protection, Safe Attachments, and Safe Links. Finally, you will be introduced to the various reports that monitor your security health. You will then transition from security services to threat intelligence; specifically, using the Security Dashboard and Advanced Threat Analytics to stay ahead of potential security breaches.",
+    "audience": [
+      "This course is designed for persons who are aspiring to the Microsoft 365 Enterprise Admin role and have completed one of the Microsoft 365 role-based administrator certification paths"
+    ],
+    "objective": ["-"],
+    "prerequisites": {
+      "explanation": "",
+      "title_list": "",
+      "list": [
+        "Completed a role-based administrator course such as Messaging, Teamwork, Security and Compliance, or Collaboration.",
+        "A proficient understanding of DNS and basic functional experience with Microsoft 365 services.",
+        "A proficient understanding of general IT practices"
+      ]
+    },
+    "outline": [
+      {
+        "module": "Introduction to Microsoft 365 Security Metrics",
+        "materi": "In this module, you will examine all the common types of threat vectors and data breaches facing organizations today, and you will learn how Microsoft 365's security solutions address these security threats, including the Zero Trust approach. You will be introduced to the Microsoft Secure Score, Privileged Identity Management, as well as to Azure Active Directory Identity Protection"
+      },
+      {
+        "module": "Managing Your Microsoft 365 Security Services",
+        "materi": "This module examines how to manage the Microsoft 365 security services, including Exchange Online Protection, Advanced Threat Protection, Safe Attachments, and Safe Links. You will be introduced to the various reports that monitor your security health"
+      },
+      {
+        "module": "Microsoft 365 Threat Intelligence",
+        "materi": "In this module, you will then transition from security services to threat intelligence; specifically, using the Security Dashboard and Advanced Threat Analytics to stay ahead of potential security breaches"
+      },
+      {
+        "module": "Introduction to Data Governance in Microsoft 365",
+        "materi": "This module examines the key components of Microsoft 365 Compliance management. This begins with an overview of all key aspects of data governance, including data archiving and retention, Information Rights Management, Secure Multipurpose Internet Mail Extension (S/MIME), Office 365 message encryption, and data loss prevention (DLP)"
+      },
+      {
+        "module": "Archiving and Retention in Microsoft 365",
+        "materi": "This module delves deeper into archiving and retention, paying particular attention to in-place records management in SharePoint, archiving and retention in Exchange, and Retention policies in the Security and Compliance Center"
+      },
+      {
+        "module": "Implementing Data Governance in Microsoft 365 Intelligence",
+        "materi": "This module examines how to implement the key aspects of data governance, including the building of ethical walls in Exchange Online, creating DLP policies from built-in templates, creating custom DLP policies, creating DLP policies to protect documents, and creating policy tips"
+      },
+      {
+        "module": "Managing Data Governance in Microsoft 365",
+        "materi": "This module focuses on managing data governance in Microsoft 365, including managing retention in email, troubleshooting retention policies and policy tips that fail, as well as troubleshooting sensitive data. You will then learn how to implement Azure Information Protection and Windows Information Protection"
+      },
+      {
+        "module": "Managing Search and Investigations",
+        "materi": "This module conclude this section on data governance by examining how to manage search and investigation, including searching for content in the Security and Compliance Center, auditing log investigations, and managing advanced eDiscovery"
+      },
+      {
+        "module": "Planning for Device Management",
+        "materi": "This module provides an in-depth examination of Microsoft 365 Device management. You will begin by planning for various aspects of device management, including preparing your Windows 10 devices for co-management. You will learn how to transition from Configuration Manager to Microsoft Intune, and you will be introduced to the Microsoft Store for Business and Mobile Application Management"
+      },
+      {
+        "module": "Planning Your Windows 10 Deployment Strategy",
+        "materi": "This module focuses on planning your Windows 10 deployment strategy, including how to implement Windows Autopilot and Windows Analytics, and planning your Windows 10 subscription activation service"
+      },
+      {
+        "module": "Implementing Mobile Device Management",
+        "materi": "This module focuses on Mobile Device Management (MDM). You will learn how to deploy it, how to enroll devices to MDM, and how to manage device compliance"
+      }
+    ],
+    "thumbnail": "https://res.cloudinary.com/ganbate/image/upload/v1600060947/Metrodata%20Academy/training/docker.jpg"
+  },
+  "MS-100T00-A": {
+    "_id": 72,
+    "id": "MS-100T00-A",
+    "title": "Microsoft 365 Identity and Services",
+    "duration": "5 Days",
+    "time": "09.00 - 17.00",
+    "price": "8.500.000",
+    "includes": [
+      {
+        "value": "Certificate of attendance",
+        "checked": true
+      },
+      {
+        "value": "Exam certification",
+        "checked": false
+      },
+      {
+        "value": "PC/Laptop",
+        "checked": true
+      }
+    ],
+    "overview": "This course covers three central elements of Microsoft 365 enterprise administration – Microsoft 365 tenant and service management, Office 365 management, and Microsoft 365 identity management. In Microsoft 365 tenant and service management, you will examine all the key components that must be planned for when designing your Microsoft 365 tenant. Once this planning phase is complete, you will learn how to configure your Microsoft 365 tenant, including your organizational profile, tenant subscription options, component services, user accounts and licenses, and security groups. Finally, you will learn how to manage your tenant, which includes the configuration of tenant roles and managing your tenant health and services.",
+    "audience": [
+      "This course is designed for persons who are aspiring to the Microsoft 365 Enterprise Admin role and have completed one of the Microsoft 365 role-based administrator certification paths"
+    ],
+    "objective": ["-"],
+    "prerequisites": {
+      "explanation": "",
+      "title_list": "",
+      "list": [
+        "Completed a role-based administrator course such as Messaging, Teamwork, Security and Compliance, or Collaboration.",
+        "A proficient understanding of DNS and basic functional experience with Microsoft 365 services.",
+        "A proficient understanding of general IT practices"
+      ]
+    },
+    "outline": [
+      {
+        "module": "Designing Your Microsoft 365 Tenant",
+        "materi": "This module focuses on planning your Microsoft 365 experience. This includes planning for the proper Microsoft 365 subscription, planning for Microsoft 365 in your on-premises infrastructure, planning which identity and authentication solution best fits your organizational requirements, planning your service setup, planning for hybrid environments, and planning your migration to Microsoft 365"
+      },
+      {
+        "module": "Configuring Your Microsoft 365 Tenant",
+        "materi": "While Module 1 focuses on planning your Microsoft 365 tenant, this modules transitions to configuring your tenant. This includes configuring your Microsoft 365 experience, including your organization profile, your tenant subscription, your services and add-ins, and your tenant configuration. You will then learn how to manage Microsoft 365 user accounts and licenses, security groups, and domain services. You will conclude by examining how to leverage FastTrack and partner services"
+      },
+      {
+        "module": "Managing Your Microsoft 365 Tenant",
+        "materi": "In the prior modules, you learned how to plan for and configure your Microsoft 365 tenant. In this module, you will take the next step in the deployment process by learning how to manage your tenant once it has been implemented. This includes configuring your Microsoft 365 administrator roles, managing tenant health and services, and managing user-driven and centralized deployments of Microsoft 365 Apps for enterprise (formerly Office 365 ProPlus)"
+      },
+      {
+        "module": "Office 365 Overview",
+        "materi": "This module examines the primary features and functionality of the key Microsoft 365 services, including Exchange Online, SharePoint Online, Teams, Power Apps, Power Automate, Power BI, and Power Virtual Agents. This module also introduces you additional Microsoft 365 resources and provides an introduction to device management using Microsoft Intune, security baselines, and conditional access"
+      },
+      {
+        "module": "Configuring Microsoft 365 Clients",
+        "materi": "This module introduces you to the Microsoft 365 clients, including mobile clients and clients working offline. This module also examines how to configure Office client connectivity to Microsoft 365, including automatic client configuration, DNS records required for automatic client configuration, configuring Outlook clients, configuring MFA, and troubleshooting client connectivity"
+      },
+      {
+        "module": "Capturing User-Driven Data",
+        "materi": "This module examines how to capture user-driven data using Office Telemetry and Workplace Analytics"
+      },
+      {
+        "module": "Planning and Implementing Identity Synchronization",
+        "materi": "This module provides an in-depth examination of Microsoft 365 Identity synchronization, with a focus on Azure Active Directory Connect. You will learn how to plan for and implement Azure AD Connect and, how to manage synchronized identities, and how to implement password management in Microsoft 365 using multi-factor authentication and self-service password management"
+      },
+      {
+        "module": "Implementing Application and External Access",
+        "materi": "This modules provides a comprehensive look at implementing application and external access. You will learn how to add and manage applications in Azure Active Directory, including how to configure multi-tenant applications. You will then examine how to configure Azure AD Application Proxy, including how to install and register a connector and how to publish an on-premises app for remote access. Finally, you will examine how to design and manage solutions for external access. This includes licensing guidance for Azure AD B2B collaboration, creating a collaborative user, and troubleshooting a B2B collaboration"
+      }
+    ],
+    "thumbnail": "https://res.cloudinary.com/ganbate/image/upload/v1600060947/Metrodata%20Academy/training/ms_power_bi.jpg"
+  },
+  "MS-100T01-A": {
+    "_id": 73,
+    "id": "MS-100T01-A",
+    "title": "Office 365 Management",
+    "duration": "2 Days",
+    "time": "09.00 - 17.00",
+    "price": "3.500.000",
+    "includes": [
+      {
+        "value": "Certificate of attendance",
+        "checked": true
+      },
+      {
+        "value": "Exam certification",
+        "checked": false
+      },
+      {
+        "value": "PC/Laptop",
+        "checked": true
+      }
+    ],
+    "overview": "Learn about Office 365 Management, including key components of Office 365, how to move an organization to Office 365, how to configure Office 365, and how to manage Office 365 ProPlus deployments.",
+    "audience": [
+      "This course is designed for persons who are aspiring to the Microsoft 365 Enterprise Admin role and have completed one of the Microsoft 365 role-based administrator certification paths"
+    ],
+    "objective": ["-"],
+    "prerequisites": {
+      "explanation": "",
+      "title_list": "",
+      "list": [
+        "Completed a role-based administrator course, such as Messaging, Teamwork, Security and Compliance, or Collaboration.",
+        "A proficient understanding of DNS and basic functional experience with Microsoft 365 services.",
+        "A proficient understanding of general IT practices."
+      ]
+    },
+    "outline": [
+      {
+        "module": "Moving Your Organization to Office 365",
+        "materi": "- Exchange Online, - SharePoint Online, - Teams, - Additional Resources"
+      },
+      {
+        "module": "Configuring your Microsoft 365 Tenant",
+        "materi": "- Planning Your Network with Office 365, - Planning Your Service Setup, - Planning Your Hybrid Environment, - Planning Your Migration to Office 365"
+      },
+      {
+        "module": "Configuring Office 365",
+        "materi": "- Office 365 Client Overview, - Configuring Office Client Connectivity to Office 365"
+      },
+      {
+        "module": "Managing Office 365 ProPlus Deployments",
+        "materi": "- Managing User-Driven Client Installations, - Managing Centralized Office 365 ProPlus Deployments, - Configuring Office Telemetry, - Configuring Microsoft Analytics"
+      },
+      {
+        "module": "Hands-On Lab",
+        "materi": "- Exercise 1: Set up a Microsoft 365 trial tenant, - Exercise 2: Prepare an Office 365 ProPlus managed installation, - Exercise 3: Manage user-driven Office 365 ProPlus installations, - Exercise 4: Manage centralized Office 365 ProPlus installations, - Exercise 5: Deploy and configure Office Telemetry components"
+      }
+    ],
+    "thumbnail": "https://res.cloudinary.com/ganbate/image/upload/v1600060947/Metrodata%20Academy/training/ms_power_point.jpg"
+  },
+  "55283-A": {
+    "_id": 74,
+    "id": "55283-A",
+    "title": "Microsoft Office 365 Power User",
+    "duration": "3 Days",
+    "time": "09.00 - 17.00",
+    "price": "5.500.000",
+    "includes": [
+      {
+        "value": "Certificate of attendance",
+        "checked": true
+      },
+      {
+        "value": "Exam certification",
+        "checked": false
+      },
+      {
+        "value": "PC/Laptop",
+        "checked": true
+      }
+    ],
+    "overview": "The course is designed to help Power Users and end users make the most of the Office 365 apps. Teaching you how to collaborate across the business and understand when to use what and maximize your business adoption of Office 365.",
+    "audience": [
+      "The intended audience for this course are Power Users and Super users who will need to support the user base, advise on functionality and when to use what tool for the right collaboration need."
+    ],
+    "objective": ["-"],
+    "prerequisites": {
+      "explanation": "",
+      "title_list": "",
+      "list": [
+        "No previous experience of Office 365 is required."
+      ]
+    },
+    "outline": [
+      {
+        "module": "An Introduction to Office 365",
+        "materi": "- What is Office 365?, - Office 365 Plans, - Browser Support, - Getting started - Login with Office 365, - Update your Delve Profile"
+      },
+      {
+        "module": "Managing Content with OneDrive",
+        "materi": "- Adding and organizing content, - Version History, - Deleting and restoring files, - Sharing files, - File details, - Synchronizing files to the device"
+      },
+      {
+        "module": "Working with Office Apps",
+        "materi": "- Working with emails in Outlook online, - Managing attachments, - Meeting creation, - Out of Office Rule, - Word/Excel and PowerPoint Online, - OneNote notebooks"
+      },
+      {
+        "module": "Collaborate with SharePoint Online",
+        "materi": "- Creating Team Sites, - Working with Document Libraries, - Adding metadata columns, - Working with views, - How to set an alert on a document library, - Creating News Items, - Communication sites, - Editing pages, - Adding Webparts to pages"
+      },
+      {
+        "module": "Working together with Groups",
+        "materi": "- Creating groups, - Adding files, - Using the Group Calendar, - adding members, - Adding tasks to Planner, - Using the OneNote Notebook, - Navigating to the SharePoint Site"
+      },
+      {
+        "module": "Collaborate with Teams",
+        "materi": "- Create a new Team, - Add members to the Team, - Add a new Channel, - Start a conversation within a Channel, - Add some files, - Create a Tab from a file, - Schedule a new meeting in a Channel"
+      },
+      {
+        "module": "Working with Video using Stream",
+        "materi": "- Uploading videos, - Channels in Stream, - Sharing content, - Following Channels"
+      },
+      {
+        "module": "Engage Colleagues with Delve, Sway and Yammer",
+        "materi": "- Searching for people in Delve, - Following colleagues, - Ways to create a Sway, - Sharing Sway, - Yammer Groups, - Yammer discussions, - Creating Polls in Yammer"
+      },
+      {
+        "module": "Working with data using Power BI, PowerApps, Flow and Forms",
+        "materi": "- What is Power BI and what does it look like, - Using Connectors, - Using Microsoft Forms, - Using Flow and the Connectors available, - Creating Mobile Apps with PowerApps"
+      }
+    ],
+    "thumbnail": "https://res.cloudinary.com/ganbate/image/upload/v1600060947/Metrodata%20Academy/training/ms_power_point.jpg"
+  },
+  "AZ-900T00-A": {
+    "_id": 75,
+    "id": "AZ-900T00-A",
+    "title": "Microsoft Azure Fundamentals",
+    "duration": "2 Days",
+    "time": "09.00 - 17.00",
+    "price": "3.500.000",
+    "includes": [
+      {
+        "value": "Certificate of attendance",
+        "checked": true
+      },
+      {
+        "value": "Exam certification",
+        "checked": false
+      },
+      {
+        "value": "PC/Laptop",
+        "checked": true
+      }
+    ],
+    "overview": "This two-day course will provide foundational level knowledge on cloud concepts; core Azure services; security, privacy, compliance, and trust; and Azure pricing and support. Note: This course provides an Azure pass and time for students to participate in hands-on labs. If you do not need hands-on experience, consider the AZ-900T01: Microsoft Azure Fundamentals (1 day) course. The content for both courses align to the AZ-900 exam objective domain.",
+    "audience": [
+      "This course is suitable for IT personnel who are just beginning to work with Azure. This audience wants to learn about our offerings and get hands-on experience with the product. This course primarily uses the Azure portal to create services and does not require scripting skills. Students in this course will gain confidence to take other role-based courses and certifications, such as Azure Administrator. This course provides an Azure pass and optional lab environment. This course combines lecture, demonstrations, and hands-on labs. This course will also help prepare someone for the AZ-900 exam."
+    ],
+    "objective": ["-"],
+    "prerequisites": {
+      "explanation": "",
+      "title_list": "",
+      "list": [
+        "There are no prerequisites for taking this course. However, the more technical knowledge a student has the more they will understand about the cloud."
+      ]
+    },
+    "outline": [
+      {
+        "module": "Cloud Concepts",
+        "materi": "- Why Cloud Services, - Types of Cloud models, - Types of Cloud services"
+      },
+      {
+        "module": "Core Azure Services",
+        "materi": "- Core Azure Architectural components, - Core Azure Services and Products, - Azure Solutions, - Azure management tools"
+      },
+      {
+        "module": "Security, Privacy, Compliance and Trust",
+        "materi": "- Secure network connectivity, - Core Azure identity services, - Security tools and features, - Azure governance methodologies, - Monitoring and reporting, - Privacy, compliance, and data protection standards"
+      },
+      {
+        "module": "Azure Pricing, Service Level Agreements(SLAs), and Lifecycle",
+        "materi": "- Azure subscriptions, - Planning and managing costs, - Azure Service Level Agreements (SLAs), - Service lifecycle in Azure"
+      }
+    ],
+    "thumbnail": "https://res.cloudinary.com/ganbate/image/upload/v1600060947/Metrodata%20Academy/training/ms_power_point.jpg"
+  },
+  "AZ-303T00-A": {
+    "_id": 76,
+    "id": "AZ-303T00-A",
+    "title": "Microsoft Azure Architect Technologies",
+    "duration": "5 Days",
+    "time": "09.00 - 17.00",
+    "price": "8.500.000",
+    "includes": [
+      {
+        "value": "Certificate of attendance",
+        "checked": true
+      },
+      {
+        "value": "Exam certification",
+        "checked": false
+      },
+      {
+        "value": "PC/Laptop",
+        "checked": true
+      }
+    ],
+    "overview": "This course teaches Solutions Architects how to translate business requirements into secure, scalable, and reliable solutions. Lessons include virtualization, automation, networking, storage, identity, security, data platform, and application infrastructure. This course outlines how decisions in each theses area affects an overall solution.",
+    "audience": [
+      "This course is for IT Professionals with expertise in designing and implementing solutions running on Microsoft Azure. They should have broad knowledge of IT operations, including networking, virtualization, identity, security, business continuity, disaster recovery, data platform, budgeting, and governance. Azure Solution Architects use the Azure Portal and as they become more adept they use the Command Line Interface. Candidates must have expert-level skills in Azure administration and have experience with Azure development processes and DevOps processes."
+    ],
+    "objective": ["-"],
+    "prerequisites": {
+      "explanation": "",
+      "title_list": "Successful Azure Solution Architects start this role with experience on operating systems, virtualization, cloud infrastructure, storage structures, and networking.",
+      "list": [
+        "Understanding of on-premises virtualization technologies, including: VMs, virtual networking, and virtual hard disks.",
+        "Understanding of network configuration, including TCP/IP, Domain Name System (DNS), virtual private networks (VPNs), firewalls, and encryption technologies.",
+        "Understanding of Active Directory concepts, including domains, forests, domain controllers, replication, Kerberos protocol, and Lightweight Directory Access Protocol (LDAP).",
+        "Understanding of resilience and disaster recovery, including backup and restore operations."
+      ]
+    },
+    "outline": [
+      {
+        "module": "Implement Virtual Networking",
+        "materi": "- Virtual Network Peering, - Implement VNet Peering"
+      },
+      {
+        "module": "Implement VMs for Windows and Linux",
+        "materi": "- Select Virtual Machine Size, - Configure High Availability, - Implement Azure Dedicated Hosts, - Deploy and Confirugre Scale Sets, - Configure Azure Disk Encryption"
+      },
+      {
+        "module": "Automate Deployment and Configuration of Resources",
+        "materi": "- Azure Resource Manager Templates, - Save a Template for a VM, - Evaluate Location of New Resources, - Configure a Virtual Hard Disk Template, - Deploy from a Template, - Create and Execute an Automation Runbook"
+      },
+      {
+        "module": "Implement Load Balancing and Network Security",
+        "materi": "- Implement Azure Load Balancer, - Implement an Application Gateway, - Understand Web Application Firewall, - Implement Azure Firewall, - Implement Azure Front Door, - Implementing Azure Trafice Manager, - Implement Network Securit Groups and Application Security Group, - Implement Azure Bastion"
+      },
+      {
+        "module": "Implement Storage Accounts",
+        "materi": "- Storage Accounts, - Blob Storage, - Storage Security, - Managing Storage, - Accessing Blobs and Queues using AAD, - Configure Azure Storage Firewalls and Virtual Networks"
+      },
+      {
+        "module": "Implement Azure Active Directory",
+        "materi": "- Overview of Azure Active Directory, - Users and Groups, - Domains and Custom Domains, - Azure AD Identity Protection, - Implement Conditional Access, - Configure Fraud Alerts for MFA, - Implement Bypass Options, - Configure Trusted IPs, - Configure Guest Users in Azure AD, - Manage Multiple Directories"
+      },
+      {
+        "module": "Implement and Manage Azure Governance",
+        "materi": "- Create management Groups, Subscriptions, and Resource Groups, - Overview of Role-Based Access Control (RBAC), - Role-Based Access Control (RBAC) Roles, - Azure AD Access Reviews, - Implement and Configure an Azure Policy, - Azure Blueprints"
+      },
+      {
+        "module": "Implement and Manage Hybrid Identities",
+        "materi": "- Install and Configure Azure AD Connect, - Configure Password Sync and Password Writeback, - Configure Azure AD Connect Health"
+      },
+      {
+        "module": "Manage Worloads in Azure",
+        "materi": "- Migrate Workloads using Azure Migrate, - VMware - Agentless Migration, - VMware - Agent-Based Migration, - Implement Azure Backup, - Azure to Azure site Recovery, - Implement Azure Update Management"
+      },
+      {
+        "module": "Implement Cloud Infrastructure Monitoring",
+        "materi": "- Azure Infrastructure Security Monitoring, - Azure Monitor, - Azure Workbooks, - Azure Alerts, - Log Analytics, - Network Watcher, - Azure Service Health, - Monitoring Azure Costs, - Azure Application Insights, - Unified Monitoring in Azure"
+      },
+      {
+        "module": "Manage Security for Applications",
+        "materi": "- Azure Key Vault, - Azure Managed Identity"
+      },
+      {
+        "module": "Implement an Application Infrastructure",
+        "materi": "- Create and Configure Azure App Service, - Create and App Service Web App for Containers, - Create and Configure an App Service Plan, - Configure Networking for an App Service, - Create and Manage Deployments Slots, -Implement Logic Apps, - Implement Azure Functions"
+      },
+      {
+        "module": "Implement Container-Based Applications",
+        "materi": "- Azure Container Instances, - Configure Azure Kubernetes Service"
+      },
+      {
+        "module": "Implement NoSQL Databases",
+        "materi": "- Configure Storage Account Tables, - Select Appropriate CosmosDB APIs"
+      },
+      {
+        "module": "Implement Azure SQL Databases",
+        "materi": "- Configure Azure SQL Database Settings, - Implement Azure SQL Database Managed Instances, - High-Availibity and Azure SQL Database"
+      }
+    ],
+    "thumbnail": "https://res.cloudinary.com/ganbate/image/upload/v1600060947/Metrodata%20Academy/training/ms_power_point.jpg"
+  },
+  "AZ-304T00-A": {
+    "_id": 77,
+    "id": "AZ-304T00-A",
+    "title": "Microsoft Azure Architect Design",
+    "duration": "4 Days",
+    "time": "09.00 - 17.00",
+    "price": "7.000.000",
+    "includes": [
+      {
+        "value": "Certificate of attendance",
+        "checked": true
+      },
+      {
+        "value": "Exam certification",
+        "checked": false
+      },
+      {
+        "value": "PC/Laptop",
+        "checked": true
+      }
+    ],
+    "overview": "This course teaches Solutions Architects how to translate business requirements into secure, scalable, and reliable solutions. Lessons include design considerations related to logging, cost analysis, authentication and authorization, governance, security, storage, high availability, and migration. This role requires decisions in multiple areas that affect an overall design solution.",
+    "audience": [
+      "This course is for IT Professionals with expertise in designing and implementing solutions running on Microsoft Azure. They should have broad knowledge of IT operations, including networking, virtualization, identity, security, business continuity, disaster recovery, data platform, budgeting, and governance. Azure Solution Architects use the Azure Portal and as they become more adept they use the Command Line Interface. Candidates must have expert-level skills in Azure administration and have experience with Azure development processes and DevOps processes."
+    ],
+    "objective": ["-"],
+    "prerequisites": {
+      "explanation": "",
+      "title_list": "Successful Azure Solution Architects start this role with experience on operating systems, virtualization, cloud infrastructure, storage structures, and networking.",
+      "list": [
+        "Understanding of on-premises virtualization technologies, including: VMs, virtual networking, and virtual hard disks.",
+        "Understanding of network configuration, including TCP/IP, Domain Name System (DNS), virtual private networks (VPNs), firewalls, and encryption technologies.",
+        "Understanding of Active Directory concepts, including domains, forests, domain controllers, replication, Kerberos protocol, and Lightweight Directory Access Protocol (LDAP).",
+        "Understanding of resilience and disaster recovery, including backup and restore operations."
+      ]
+    },
+    "outline": [
+      {
+        "module": "Design a Compute Solution",
+        "materi": "- Recommend a solution for Compute Provisioning, - Determine Appropriate Compute Technologies, - Recommend a Solution for Containers, - Recommend a Solution for Automating Compute Management"
+      },
+      {
+        "module": "Design a Network Solution",
+        "materi": "- Recommend a Solution for Network Addressing and Name Resolution, - Recommend a Solution for Network Provisioning, - Recommend a Solution for Network Security, - Recommend a Solution for Internet Connectivity and On-Premises Networks, - Recommend a Solution for Automating Network Management, - Recommend a Solution for Load Balancing and Traffic Routing"
+      },
+      {
+        "module": "Design for Migration",
+        "materi": "- Assess and On-Premises Servers and Applications for Migration, - Recommend a Solution for Migrating Applications and VMs, - Recommend a Solution for Migration of Databases"
+      },
+      {
+        "module": "Design Authentication and Authorization",
+        "materi": "- Tips for Identity and Access Management, - Recommend a Solution for Multi-Factor Authentication, - Five steps for Securing Identity Infrastructure, - Recommend a Solution for Single-Sign On (SSO), - Recommend a Solution for a Hibrid Identity, - Recommend a Solution for B2B Integration, - Recommend a Hierarchical Structure for Management Groups"
+      },
+      {
+        "module": "Design Governance",
+        "materi": "- Recommend a Solution for using Azure Policy, - Recommend a Solution for using Azure Blueprint"
+      },
+      {
+        "module": "Design a solution for Databases",
+        "materi": "- Select an Appropriate Data Platform Based on Requirements, - Overview of Azure Data Storage, - Recommend Database Service Tier Sizing, - Dynamically Scalle Azure SQL Database and Azuree SQL Managed Instances, - Recommend a Solution for Encrypting Data at Rest, Transmission and In Use"
+      },
+      {
+        "module": "Select an Appropriate Storage Account",
+        "materi": "- Understanding Storage Tiers, - Recommend a Storage Access Solution, - Recommend Storage Management Tools"
+      },
+      {
+        "module": "Design Data Integration",
+        "materi": "- Recommend a Data Flow, - Recommend a Solution for Data Integration"
+      },
+      {
+        "module": "Design a Solution for Logging and Monitoring",
+        "materi": "- Azure Monitoring Services, - Azure Monitor"
+      },
+      {
+        "module": "Design a Solution for Backup and Recovery",
+        "materi": "- Recommend a Recovery Solution for Hybrid and On-Premises Workloads, - Design and Azure Site Recovery Solution, - Recommend a Solution for Recovery in Different Regions, - Recommend a Solution for Azure Backup Management, - Design a Solution for Data Archiving and Retention"
+      },
+      {
+        "module": "Design for high Availability",
+        "materi": "- Recommend a Solution for Application and Workload Redundancy, - Recommend a Solution for Autoscaling, - Identify Resources that Require High Availability, - Identify Storage Types for High Availability, - Recommend a Solution for Geo-Redundancy of Workloads"
+      },
+      {
+        "module": "Design for Cost Optimization",
+        "materi": "- Recommend Solutions for Cost Management, - Recommended Viewpoints for Minimizing Costs"
+      },
+      {
+        "module": "Design an Application Architecture",
+        "materi": "- Recommend a Microservices Architecture, - Recommend an Orchestration Solution for Deployment of Applications, - Recommend a Solution for API Integration"
+      },
+      {
+        "module": "Design Security for Applications",
+        "materi": "- Security for Applications and Services, - Recommend a Solution using Key Vault, - Recommend Solutions using Azure AD Managed Identities"
+      }
+    ],
+    "thumbnail": "https://res.cloudinary.com/ganbate/image/upload/v1600060947/Metrodata%20Academy/training/ms_power_point.jpg"
+  },
+  "AZ-104T00-A": {
+    "_id": 78,
+    "id": "AZ-104T00-A",
+    "title": "Microsoft Azure Administrator",
+    "duration": "4 Days",
+    "time": "09.00 - 17.00",
+    "price": "7.000.000",
+    "includes": [
+      {
+        "value": "Certificate of attendance",
+        "checked": true
+      },
+      {
+        "value": "Exam certification",
+        "checked": false
+      },
+      {
+        "value": "PC/Laptop",
+        "checked": true
+      }
+    ],
+    "overview": "This course teaches IT Professionals how to manage their Azure subscriptions, secure identities, administer the infrastructure, configure virtual networking, connect Azure and on-premises sites, manage network traffic, implement storage solutions, create and scale virtual machines, implement web apps and containers, back up and share data, and monitor your solution.",
+    "audience": [
+      "This course is for Azure Administrators. The Azure Administrator implements, manages, and monitors identity, governance, storage, compute, and virtual networks in a cloud environment. The Azure Administrator will provision, size, monitor, and adjust resources as appropriate."
+    ],
+    "objective": ["-"],
+    "prerequisites": {
+      "explanation": "",
+      "title_list": "Successful Azure Solution Architects start this role with experience on operating systems, virtualization, cloud infrastructure, storage structures, and networking.",
+      "list": [
+        "Understanding of on-premises virtualization technologies, including: VMs, virtual networking, and virtual hard disks.",
+        "Understanding of network configuration, including TCP/IP, Domain Name System (DNS), virtual private networks (VPNs), firewalls, and encryption technologies.",
+        "Understanding of Active Directory concepts, including domains, forests, domain controllers, replication, Kerberos protocol, and Lightweight Directory Access Protocol (LDAP).",
+        "Understanding of resilience and disaster recovery, including backup and restore operations."
+      ]
+    },
+    "outline": [
+      {
+        "module": "Identity",
+        "materi": "- Azure Active Directory, - Users and Groups"
+      },
+      {
+        "module": "Governance and Compliance",
+        "materi": "- Subscriptions and Accounts, - Azure Policy, - Role-based Access Control (RBAC)"
+      },
+      {
+        "module": "Azure Administration",
+        "materi": "- Azure Resource Manager, - Azure Portal and Cloud Shell, - Azure PowerShell and CLI, - ARM Templates"
+      },
+      {
+        "module": "Virtual Networking",
+        "materi": "- Virtual Networks, - IP Addressing, - Network Security Groups, - Azure Firewall, - Azure DNS"
+      },
+      {
+        "module": "Intersite Connectivity",
+        "materi": "- VNet Peering, - VPN gateway Connections, - Express ROute and Virtual WAN"
+      },
+      {
+        "module": "Netowrk Traffic Management",
+        "materi": "- Network Routing and Endpoints, - Azure Load Balancer, - Azure Application Gateway"
+      },
+      {
+        "module": "Azure Storage",
+        "materi": "- Storage Accounts, - Blob Storage, - Storage Security, - Azure Files and File Sync, - Managing Storage"
+      },
+      {
+        "module": "Azure Virtual Machines",
+        "materi": "- Virtual Machine Planning, - Creating Virtual Machines, - Virtual Machine Availability, - Virtual Machine Extensions"
+      },
+      {
+        "module": "Serverless Computing",
+        "materi": "- Azure App Service Plans, - Azure App Service, - Container Services, - Azure Kubernetes Service"
+      },
+      {
+        "module": "Data Protection",
+        "materi": "- File and Folder Backups, - Virtual Machine Backups"
+      },
+      {
+        "module": "Monitoring",
+        "materi": "- Azure Monitor, - Azure Alert, - Log Analytics, - Network Watcher"
+      }
+    ],
+    "thumbnail": "https://res.cloudinary.com/ganbate/image/upload/v1600060947/Metrodata%20Academy/training/ms_power_point.jpg"
+  },
+  "RH135": {
+    "_id": 79,
+    "id": "RH135",
+    "title": "Red Hat System Administration II with Exam",
+    "duration": "5 Days",
+    "time": "09.00 - 17.00",
+    "price": "10.500.000",
+    "includes": [
+      {
+        "value": "Certificate of attendance",
+        "checked": true
+      },
+      {
+        "value": "Exam certification",
+        "checked": true
+      },
+      {
+        "value": "PC/Laptop",
+        "checked": true
+      }
+    ],
+    "overview": "Focuses on the key tasks needed to become a full time Linux administrator. Red Hat System Administration II with exam (RH135) serves as the second part of the RHCSA training track for IT professionals who have taken Red Hat System Administration I (RH124). The course goes deeper into core Linux system administration skills in storage configuration and management, installation and deployment of Red Hat® Enterprise Linux®, management of security features such as SELinux, control of recurring system tasks, management of the boot process and troubleshooting, basic system tuning, and command-line automation and productivity. Experienced Linux administrators looking for rapid preparation for the RHCSA certification should instead start with RHCSA Rapid Track (RH199). The Red Hat Certified System Administrator (RHCSA) exam (EX200) is included in this offering, which is based on Red Hat Enterprise Linux 8.2.",
+    "audience": [
+      "This offering is geared toward Windows system administrators, network administrators, and other system administrators who are interested in supplementing current skills or backstopping other team members, in addition to Linux system administrators who are responsible for these tasks: Configuring, installing, upgrading, and maintaining Linux systems using established standards and procedures; Providing operational support; Managing systems for monitoring system performance and availability; Writing and deploying scripts for task automation and system administration"
+    ],
+    "objective": [
+      "Install Red Hat Enterprise Linux using scalable methods",
+      "Access security files, file systems, and networks",
+      "Execute shell scripting and automation techniques",
+      "Manage storage devices, logical volumes, and file systems",
+      "Manage security and system access",
+      "Control the boot process and system services",
+      "Running containers"
+    ],
+    "prerequisites": {
+      "explanation": "",
+      "title_list": "",
+      "list": [
+        "Successful completion of Red Hat System Administration I (RH124) is recommended.",
+        "Experienced Linux administrators seeking to accelerate their path toward becoming a Red Hat Certified System Administrator should start with the RHCSA Rapid Track course (RH199)."
+      ]
+    },
+    "outline": [
+      {
+        "module": "Improve command live productivity",
+        "materi": "Run commands more efficiently by using advanced features of the bash shell, shell scripts, and various utilities provided by Red Hat Enterprise Linux."
+      },
+      {
+        "module": "Schedule future task",
+        "materi": "Schedule commands to run in the future, either one time or on a repeating schedule."
+      },
+      {
+        "module": "Tune system performance",
+        "materi": "Improve system performance by setting tuning parameters and adjusting scheduling priority of processes."
+      },
+      {
+        "module": "Control access to files with ACLs",
+        "materi": "Interpret and set access control lists (ACLs) on files to handle situations requiring complex user and group access permissions."
+      },
+      {
+        "module": "Manage SELinux Security",
+        "materi": "Protect and manage the security of a server by using SELinux."
+      },
+      {
+        "module": "Manage basic storage",
+        "materi": "Create and manage storage devices, partitions, file systems, and swap spaces from the command line."
+      },
+      {
+        "module": "Manage logical volumes",
+        "materi": "Create and manage logical volumes containing file systems and swap spaces from the command line."
+      },
+      {
+        "module": "Implement advanced storage features",
+        "materi": "Manage storage using the Stratis local storage management system and use VDO volumes to optimize storage space in use."
+      },
+      {
+        "module": "Access network-attached storage",
+        "materi": "Use the NFS protocol to administer network-attached storage."
+      },
+      {
+        "module": "Control the boot process",
+        "materi": "Manage the boot process to control services offered and to troubleshoot and repair problems."
+      },
+      {
+        "module": "Manage network security",
+        "materi": "Control network connections to services using the system firewall and SELinux rules."
+      },
+      {
+        "module": "Install Red Hat Enterprise Linux",
+        "materi": "Install Red Hat Enterprise Linux on servers and virtual machines."
+      },
+      {
+        "module": "Run Containers",
+        "materi": "Obtain, run, and manage simple, lightweight services as containers on a single Red Hat Enterprise Linux server."
+      }
+    ],
+    "thumbnail": "https://res.cloudinary.com/ganbate/image/upload/v1600060947/Metrodata%20Academy/training/ms_power_point.jpg"
+  },
+  "RH199": {
+    "_id": 80,
+    "id": "RH199",
+    "title": "RHCSA Rapid Track course",
+    "duration": "4 Days",
+    "time": "09.00 - 17.00",
+    "price": "11.200.000",
+    "includes": [
+      {
+        "value": "Certificate of attendance",
+        "checked": true
+      },
+      {
+        "value": "Exam certification",
+        "checked": false
+      },
+      {
+        "value": "PC/Laptop",
+        "checked": true
+      }
+    ],
+    "overview": "Learn essential Red Hat Enterprise Linux configuration, administration, and maintenance in a condensed format. The RHCSA Rapid Track course (RH199) combines Red Hat System Administration I (RH124) and Red Hat System Administration II (RH134), reviewing the tasks at an accelerated pace. This course relates to Red Hat® Enterprise Linux® and is designed for experienced Linux system administrators. This course is based on Red Hat® Enterprise Linux 8.2",
+    "audience": [
+      "This offering is geared toward Windows system administrators, network administrators, and other system administrators who are interested in supplementing current skills or backstopping other team members, in addition to Linux system administrators who are responsible for these tasks: Configuring, installing, upgrading, and maintaining Linux systems using established standards and procedures; Providing operational support; Managing systems for monitoring system performance and availability; Writing and deploying scripts for task automation and system administration"
+    ],
+    "objective": [
+      "Package management with new repository structure and appstream modules",
+      "Create storage devices, volumes, and file systems, including Stratis storage management",
+      "Configure network services and security",
+      "Manage processes, scheduling, and tuning",
+      "Manage users, groups, and authentication",
+      "Perform server management with the Cockpit web management utility",
+      "Troubleshoot and obtain support",
+      "Run containers"
+    ],
+    "prerequisites": {
+      "explanation": "",
+      "title_list": "",
+      "list": [
+        "You will be expected to already understand fundamental Linux computing concepts and be ready to practice the Red Hat Enterprise Linux methods for performing system administration tasks. Significant field experience working with Linux as a system administrator is recommended.",
+        "If you do not have experience with fundamental Linux computer concepts, we advise you to start with the Red Hat System Administration I (RH124) course instead.",
+        "Take our free assessment to gauge whether this offering is the best fit for your skills."
+      ]
+    },
+    "outline": [
+      {
+        "module": "Access systems and get help",
+        "materi": "Log in to local and remote Linux systems, and investigate problem resolution methods provided through Red Hat Insights and support."
+      },
+      {
+        "module": "Navigate file systems",
+        "materi": "Copy, move, create, delete, and organize files while working from the bash shell."
+      },
+      {
+        "module": "Manage local users and groups",
+        "materi": "Create, manage, and delete local users and groups and administer local password policies."
+      },
+      {
+        "module": "Control access to files",
+        "materi": "Set Linux file system permissions on files and to interpret the security effects of different permission settings."
+      },
+      {
+        "module": "Manage SELinux Security",
+        "materi": "Protect and manage the security of a server by using SELinux."
+      },
+      {
+        "module": "Tune system performance",
+        "materi": "Evaluate and control processes, set tuning parameters, and adjust process scheduling priorities on a Red Hat Enterprise Linux system."
+      },
+      {
+        "module": "Install and update software packages",
+        "materi": "Download, install, update, and manage software packages from Red Hat and yum package repositories."
+      },
+      {
+        "module": "Manage basic storage",
+        "materi": "Create and manage storage devices, partitions, file systems, and swap spaces from the command line."
+      },
+      {
+        "module": "Control services and the boot process",
+        "materi": "Control and monitor network services, system daemons, and the boot process using system."
+      },
+      {
+        "module": "Manage networking",
+        "materi": "Configure network interfaces and settings on Red Hat Enterprise Linux servers"
+      },
+      {
+        "module": "Analyze and store logs",
+        "materi": "Locate and accurately interpret logs of system events for troubleshooting purpose."
+      },
+      {
+        "module": "Implement advanced storage features",
+        "materi": "Create and manage logical volumes containing file systems and swap spaces from the command line, and configure advanced storage features with Stratis and VDO"
+      },
+      {
+        "module": "Schedule future tasks",
+        "materi": "Schedule tasks to automatically execute in the future."
+      },
+      {
+        "module": "Access network-attached storage",
+        "materi": "Access network-attached storage, using the NFS protocol."
+      },
+      {
+        "module": "Manage network security",
+        "materi": "Control network connections to services using the system firewall and SELinux rules."
+      },
+      {
+        "module": "Running Containers",
+        "materi": "Obtain, run, and manage simple, lightweight services as containers on a single Red Hat Enterprise Linux server."
+      }
+    ],
+    "thumbnail": "https://res.cloudinary.com/ganbate/image/upload/v1600060947/Metrodata%20Academy/training/ms_power_point.jpg"
+  },
+  "CL210": {
+    "_id": 81,
+    "id": "CL210",
+    "title": "Red Hat OpenStack Administration II: Infrastructure Configuration for Cloud Administrators",
+    "duration": "5 Days",
+    "time": "09.00 - 17.00",
+    "price": "14.000.000",
+    "includes": [
+      {
+        "value": "Certificate of attendance",
+        "checked": true
+      },
+      {
+        "value": "Exam certification",
+        "checked": false
+      },
+      {
+        "value": "PC/Laptop",
+        "checked": true
+      }
+    ],
+    "overview": "Introduction to Red Hat OpenStack Platform configuration and administration of private cloud infrastructure using core OpenStack services. Red Hat OpenStack Administration II: Infrastructure Configuration for Cloud Administrators (CL210) teaches you how to implement a full-featured cloud computing environment using OpenStack. You will learn how to configure, administer, and manage Red Hat® OpenStack Platform infrastructure. The lessons and objectives taught in this course will prepare you for the Red Hat Certified System Administrator in Red Hat OpenStack exam (EX210). This course is based on Red Hat OpenStack Platform 13.0 and Red Hat® Enterprise Linux® 7.5. The focus of this course is on managing and using the OpenStack client command-line interface and the director and dashboard graphical web user interfaces to securely manage server instances, compute and storage resources, and user identities.",
+    "audience": [
+      "This course is intended for Linux system administrators, cloud administrators, cloud operators, and infrastructure architects interested in, or responsible for, maintaining a private or hybrid cloud."
+    ],
+    "objective": [
+      "Gain familiarity with overcloud service containerization technology.",
+      "Learn about Open Virtual Networking (OVN) enhancement to OVS.",
+      "Use identity service v3 (keystone) with external Red Hat IdM store.",
+      "Manage the core control plane, including Pacemaker.",
+      "Customize images, with techniques for multiple use cases.",
+      "Manage block and object storage.",
+      "Manage compute nodes, including tuning and hyperconvergence.",
+      "Deploy multi-container stacks.",
+      "Troubleshoot OpenStack."
+    ],
+    "prerequisites": {
+      "explanation": "",
+      "title_list": "",
+      "list": [
+        "Be a Red Hat Certified System Administrator (RHCSA), or demonstrate equivalent experience by passing the online skills assessment",
+        "Attend Red Hat OpenStack Administration I: Core Operations for Cloud Operators (CL110), or demonstrate equivalent experience"
+      ]
+    },
+    "outline": [
+      {
+        "module": "Navigate the Red Hat OpenStack Platform architecture",
+        "materi": "Describe the classroom environment, support systems, functions of the undercloud components, and more."
+      },
+      {
+        "module": "Describe the OpenStack control plane",
+        "materi": "Identify the shared services running on a controller node and describe service endpoint configuration and security."
+      },
+      {
+        "module": "Integrate identity management",
+        "materi": "Identify the shared services running on a controller node and describe service endpoint configuration and security."
+      },
+      {
+        "module": "Perform image operations",
+        "materi": "Build an image using diskimage-builder and customize launched instances during deployment using cloud-init."
+      },
+      {
+        "module": "Manage storage",
+        "materi": "Explain persistent storage options for use in OpenStack, focusing on the expanding capabilities of the default Red Hat® Ceph Storage."
+      },
+      {
+        "module": "Manage OpenStack networking",
+        "materi": "Explain the different network types available to the OpenStack networking service and improve network performance with Open Virtual Network."
+      },
+      {
+        "module": "Manage compute resources",
+        "materi": "Perform common compute node administration tasks, including live migration, evacuation, and enabling and disabling compute nodes."
+      },
+      {
+        "module": "Automate cloud applications",
+        "materi": "Explain the orchestration architecture required to deploy application stacks and write templates using the Heat Orchestration Template (HOT) language."
+      },
+      {
+        "module": "Troubleshoot OpenStack operations",
+        "materi": "Discuss recommended diagnostic and troubleshooting tools and techniques."
+      },
+      {
+        "module": "Comprehensive review",
+        "materi": "Build a custom image and launch an instance using the custom image."
+      }
+    ],
+    "thumbnail": "https://res.cloudinary.com/ganbate/image/upload/v1600060947/Metrodata%20Academy/training/ms_power_point.jpg"
+  },
+  "CL310": {
+    "_id": 82,
+    "id": "CL310",
+    "title": "Red Hat OpenStack Administration III: Networking & Foundations of NFV",
+    "duration": "5 Days",
+    "time": "09.00 - 17.00",
+    "price": "14.000.000",
+    "includes": [
+      {
+        "value": "Certificate of attendance",
+        "checked": true
+      },
+      {
+        "value": "Exam certification",
+        "checked": false
+      },
+      {
+        "value": "PC/Laptop",
+        "checked": true
+      }
+    ],
+    "overview": "Manage Red Hat OpenStack networking for performance tuning Red Hat OpenStack Administration III: Networking & Foundations of NFV (CL310) teaches network engineers, network operators, cloud operators, and cloud administrators how to manage and tune Red Hat® OpenStack Platform for network performance. This course can also help you prepare for the Red Hat® Certified Engineer (RHCE®) in Red Hat OpenStack exam (EX310). This offering is based on Red Hat OpenStack version 10.0 and Red Hat Enterprise Linux 7.4.",
+    "audience": [
+      "This course is designed for network engineers, network operators, cloud administrators, and cloud operators."
+    ],
+    "objective": [
+      "You will learn how to manage the OpenStack networking service (Neutron) with network functions virtualization to enhance network performance. You will configure distributed virtual routers, Open vSwitch with Data Plane Development Kit datapath, and IPv6 networking in OpenStack. You will also deploy software-defined networking with OpenDaylight."
+    ],
+    "prerequisites": {
+      "explanation": "",
+      "title_list": "",
+      "list": [
+        "Become a Red Hat® Certified System Administrator (RHCSA), or demonstrate equivalent experience",
+        "Complete the Red Hat® Certified System Administrator in Red Hat OpenStack exam (EX210), or demonstrate equivalent experience"
+      ]
+    },
+    "outline": [
+      {
+        "module": "Manage networks in Linux",
+        "materi": "Administer network interfaces, bridges, and virtual networking devices."
+      },
+      {
+        "module": "Manage OpenStack networking agents",
+        "materi": "Manage the L2, L3, DHCP, and other OpenStack networking agents."
+      },
+      {
+        "module": "Deploy IPv6 networks",
+        "materi": "Set up IPv6 networks in OpenStack."
+      },
+      {
+        "module": "Provision OpenStack networks",
+        "materi": "Provision tenant networks and provider networks."
+      },
+      {
+        "module": "Implement distributed virtual routing",
+        "materi": "Enable distributed virtual routing (DVR) to provide scaling and performance."
+      },
+      {
+        "module": "Tune NFV performance",
+        "materi": "Tune OpenStack networking performance."
+      },
+      {
+        "module": "Implement NFV data paths",
+        "materi": "Execute network functions virtualization (NFV) data paths."
+      },
+      {
+        "module": "Build software-defined networks with OpenDaylight",
+        "materi": "Create software-defined networks with OpenDaylight (ODL)."
+      },
+      {
+        "module": "Comprehensive review of Red Hat OpenStack Administration III",
+        "materi": "Configure advanced networking on Red Hat® OpenStack Platform."
+      }
+    ],
+    "thumbnail": "https://res.cloudinary.com/ganbate/image/upload/v1600060947/Metrodata%20Academy/training/ms_power_point.jpg"
+  },
+  "DO280": {
+    "_id": 83,
+    "id": "DO280",
+    "title": "Red Hat OpenShift I: Containers & Kubernetes",
+    "duration": "3 Days",
+    "time": "09.00 - 17.00",
+    "price": "10.500.000",
+    "includes": [
+      {
+        "value": "Certificate of attendance",
+        "checked": true
+      },
+      {
+        "value": "Exam certification",
+        "checked": false
+      },
+      {
+        "value": "PC/Laptop",
+        "checked": true
+      }
+    ],
+    "overview": "Learn to build and manage containers for deployment on a Kubernetes and Red Hat OpenShift cluster. Red Hat OpenShift I: Containers & Kubernetes (DO180) helps you build core knowledge in managing containers through hands-on experience with containers, Kubernetes, and the Red Hat® OpenShift® Container Platform. These skills are needed for multiple roles, including developers, administrators, and site reliability engineers. This course is based on Red Hat OpenShift Container Platform 4.5.",
+    "audience": [
+      "Developers who wish to containerize software applications",
+      "Administrators who are new to container technology and container orchestration",
+      "Architects who are considering using container technologies in software architectures",
+      "Site reliability engineers who are considering using Kubernetes and Red Hat OpenShift"
+    ],
+    "objective": [
+      "Understand container and OpenShift architecture.",
+      "Create containerized services.",
+      "Manage containers and container images.",
+      "Create custom container images.",
+      "Deploy containerized applications on Red Hat OpenShift.",
+      "Deploy multi-container applications."
+    ],
+    "prerequisites": {
+      "explanation": "",
+      "title_list": "",
+      "list": [
+        "Be able to use a Linux terminal session, issue operating system commands, and be familiar with shell scripting",
+        "Have experience with web application architectures and their corresponding technologies",
+        "Being a Red Hat Certified System Administrator (RHCSA®) is recommended, but not required",
+        "Take our free assessment to gauge whether this offering is the best fit for your skills."
+      ]
+    },
+    "outline": [
+      {
+        "module": "Introduce container technology",
+        "materi": "Describe how software can run in containers orchestrated by Red Hat OpenShift Container Platform."
+      },
+      {
+        "module": "Create containerized services",
+        "materi": "Provision a server using container technology."
+      },
+      {
+        "module": "Manage containers",
+        "materi": "Manipulate pre-built container images to create and manage containerized services."
+      },
+      {
+        "module": "Manage container images",
+        "materi": "Govern the life cycle of a container image from creation to deletion."
+      },
+      {
+        "module": "Create custom container images",
+        "materi": "Design and code a Docker file to build a custom container image."
+      },
+      {
+        "module": "Deploy containerized applications on Red Hat OpenShift",
+        "materi": "Use single container applications on Red Hat OpenShift Container Platform."
+      },
+      {
+        "module": "Deploy multi-container applications",
+        "materi": "Set up applications that are containerized using multiple container images."
+      },
+      {
+        "module": "Troubleshoot containerized applications",
+        "materi": "Regulate a containerized application deployed on Red Hat OpenShift."
+      },
+      {
+        "module": "Comprehensive review of curriculum",
+        "materi": "Demonstrate how to containerize a software application, test it with Podman, and deploy it on a Red Hat OpenShift cluster."
+      }
+    ],
+    "thumbnail": "https://res.cloudinary.com/ganbate/image/upload/v1600060947/Metrodata%20Academy/training/ms_power_point.jpg"
+  },
+  "RH255": {
+    "_id": 84,
+    "id": "RH255",
+    "title": "Red Hat System Administration III with RHCSA and RHCE exams",
+    "duration": "5 Days",
+    "time": "09.00 - 17.00",
+    "price": "12.600.000",
+    "includes": [
+      {
+        "value": "Certificate of attendance",
+        "checked": true
+      },
+      {
+        "value": "Exam certification",
+        "checked": true
+      },
+      {
+        "value": "PC/Laptop",
+        "checked": true
+      }
+    ],
+    "overview": "Broaden your ability to administer Linux systems. Red Hat® System Administration III (RH254), related to Red Hat Enterprise Linux,® 7, is designed for experienced Linux system administrators who hold a Red Hat Certified System Administrator (RHCSA®) certification or equivalent skills and who want to broaden their ability to administer Linux systems at an enterprise level.",
+    "audience": [
+      "Red Hat System Administration III is intended for experienced Linux administrators wishing to learn enterprise-level automation techniques through scripting, how to deploy and secure network services, and how to manage other key security features of Red Hat Enterprise Linux. Students in this course should have earned their RHCSA or have equivalent skills."
+    ],
+    "objective": [
+      "The course is focused on deploying and managing network servers running caching Domain Name Service (DNS), MariaDB, Apache HTTPD, Postfix SMTP nullclients, network file sharing with Network File System (NFS) and Server Message Block (SMB), iSCSI initiators and targets, advanced networking and firewalld configurations, and the use of Bash shell scripting to help automate, configure, and troubleshoot the system. Through lectures and hands-on labs, students who have already earned the RHCSA certification will be exposed to all competencies covered by the Red Hat Certified Engineer (RHCE) exam (EX300)."
+    ],
+    "prerequisites": {
+      "explanation": "",
+      "title_list": "",
+      "list": [
+        "RHCSA certification or equivalent experience",
+        "For candidates who have not earned their RHCSA certification, confirmation of the correct skills and knowledge can be obtained by passing the online skills assessment."
+      ]
+    },
+    "outline": [
+      {
+        "module": "Control services and daemons",
+        "materi": "Review how to manage services and the boot-up process using systemctl"
+      },
+      {
+        "module": "Manage IPv6 networking",
+        "materi": "Configure and troubleshoot basic IPv6 networking on Red Hat Enterprise Linux systems"
+      },
+      {
+        "module": "Configure link aggregation and bridging",
+        "materi": "Configure and troubleshoot advanced network interface functionality including bonding, teaming, and local software bridges"
+      },
+      {
+        "module": "control network port security",
+        "materi": "filtering techniques."
+      },
+      {
+        "module": "manage DNS for servers",
+        "materi": "Set and verify correct DNS records for systems and configure secure DNS caching"
+      },
+      {
+        "module": "Configure email delivery",
+        "materi": "Relay all email sent by the system to an SMTP gateway for central delivery"
+      },
+      {
+        "module": "Provide block-based storage",
+        "materi": "Provide and use networked iSCSI block devices as remote disks"
+      },
+      {
+        "module": "Provide file-based storage",
+        "materi": "Provide NFS exports and SMB file shares to specific systems and users"
+      },
+      {
+        "module": "Configure MariaDB databases",
+        "materi": "Provide a MariaDB SQL database for use by programs and database administrators"
+      },
+      {
+        "module": "Provide Apache HTTPD web service",
+        "materi": "Configure Apache HTTPD to provide Transport Layer Security (TLS)-enabled websites and virtual hosts"
+      },
+      {
+        "module": "Write Bash scripts",
+        "materi": "Write simple shell scripts using Bash"
+      },
+      {
+        "module": "Bash conditionals and control structures",
+        "materi": "Use Bash conditionals and other control structures to write more sophisticated shell commands and scripts."
+      },
+      {
+        "module": "configure the shell environment",
+        "materi": "Customize Bash startup and use environment variables, Bash aliases, and Bash functions."
+      },
+      {
+        "module": "Comprehensive review",
+        "materi": "Practice and demonstrate knowledge and skills learned in Red Hat System Administration III"
+      }
+    ],
+    "thumbnail": "https://res.cloudinary.com/ganbate/image/upload/v1600060947/Metrodata%20Academy/training/ms_power_point.jpg"
+  },
+  "RH254": {
+    "_id": 85,
+    "id": "RH254",
+    "title": "Red Hat System Administration III: Data Center Services for Red Hat Enterprise Linux 7s",
+    "duration": "4 Days",
+    "time": "09.00 - 17.00",
+    "price": "8.400.000",
+    "includes": [
+      {
+        "value": "Certificate of attendance",
+        "checked": true
+      },
+      {
+        "value": "Exam certification",
+        "checked": false
+      },
+      {
+        "value": "PC/Laptop",
+        "checked": true
+      }
+    ],
+    "overview": "Broaden your ability to administer Linux systems and prepare for your Red Hat Certified Engineer (RHCE) exam. Red Hat System Administration III: Data Center Services for Red Hat Enterprise Linux 7 (RH254) is designed for experienced Linux® system administrators who hold a Red Hat Certified System Administrator (RHCSA®) credential or possess equivalent skills and want to broaden their ability to administer Linux systems at an enterprise level. This course is based on Red Hat® Enterprise Linux 7.",
+    "audience": [
+      "This course is intended for experienced Linux administrators wishing to learn enterprise-level automation techniques through scripting, how to deploy and secure network services, and how to manage other key security features of Red Hat Enterprise Linux. Prior to taking this course, you should have earned your RHCSA or possess equivalent skills."
+    ],
+    "objective": [
+      "The course is focused on deploying and managing network servers running caching domain name service (DNS), MariaDB, Apache HTTPD, Postfix SMTP nullclients, network file sharing with network file system (NFS) and server message block (SMB), iSCSI initiators and targets, advanced networking and firewalld configurations, and the use of bash shell scripting to help automate, configure, and troubleshoot the system. Through lectures and hands-on labs, students who have already earned the RHCSA credential will be exposed to all competencies covered by the Red Hat Certified Engineer (RHCE) exam (EX300)."
+    ],
+    "prerequisites": {
+      "explanation": "",
+      "title_list": "",
+      "list": [
+        "RHCSA certification or equivalent experience",
+        "For candidates who have not earned their RHCSA certification, confirmation of the correct skills and knowledge can be obtained by passing the online skills assessment."
+      ]
+    },
+    "outline": [
+      {
+        "module": "Control services and daemons",
+        "materi": "Review how to manage services and the boot-up process using systemctl"
+      },
+      {
+        "module": "Manage IPv6 networking",
+        "materi": "Configure and troubleshoot basic IPv6 networking on Red Hat Enterprise Linux systems"
+      },
+      {
+        "module": "Configure link aggregation and bridging",
+        "materi": "Configure and troubleshoot advanced network interface functionality including bonding, teaming, and local software bridges"
+      },
+      {
+        "module": "Control network port security",
+        "materi": "Permit and reject access to network services using advanced SELinux and firewall filtering techniques."
+      },
+      {
+        "module": "Manage DNS for servers",
+        "materi": "Set and verify correct DNS records for systems and configure secure DNS caching"
+      },
+      {
+        "module": "Configure email delivery",
+        "materi": "Relay all email sent by the system to an SMTP gateway for central delivery"
+      },
+      {
+        "module": "Provide block-based storage",
+        "materi": "Provide and use networked iSCSI block devices as remote disks"
+      },
+      {
+        "module": "Provide file-based storage",
+        "materi": "Provide NFS exports and SMB file shares to specific systems and users"
+      },
+      {
+        "module": "Configure MariaDB databases",
+        "materi": "Provide a MariaDB SQL database for use by programs and database administrators"
+      },
+      {
+        "module": "Provide Apache HTTPD web service",
+        "materi": "Configure Apache HTTPD to provide Transport Layer Security (TLS)-enabled websites and virtual hosts"
+      },
+      {
+        "module": "Write Bash scripts",
+        "materi": "Write simple shell scripts using Bash"
+      },
+      {
+        "module": "Bash conditionals and control structures",
+        "materi": "Use Bash conditionals and other control structures to write more sophisticated shell commands and scripts."
+      },
+      {
+        "module": "configure the shell environment",
+        "materi": "Customize Bash startup and use environment variables, Bash aliases, and Bash functions."
+      },
+      {
+        "module": "Comprehensive review",
+        "materi": "Practice and demonstrate knowledge and skills learned in this course."
+      }
+    ],
+    "thumbnail": "https://res.cloudinary.com/ganbate/image/upload/v1600060947/Metrodata%20Academy/training/ms_power_point.jpg"
+  },
+  "CTIA": {
+    "_id": 86,
+    "id": "CTIA",
+    "title": "Certified Threat Intelligence Analyst",
+    "duration": "3 Days",
+    "time": "09.00 - 17.00",
+    "price": "10.000.000",
+    "includes": [
+      {
+        "value": "Certificate of attendance",
+        "checked": true
+      },
+      {
+        "value": "Exam certification",
+        "checked": true
+      },
+      {
+        "value": "PC/Laptop",
+        "checked": true
+      }
+    ],
+    "overview": "Certified Threat Intelligence Analyst (C|TIA) is a training and credentialing program designed and developed in collaboration with cybersecurity and threat intelligence experts across the globe to help organizations identify and mitigate business risks by converting unknown internal and external threats into known threats. It is a comprehensive specialistlevel program that teaches a structured approach for building effective threat intelligence. The program was based on a rigorous Job Task Analysis (JTA) of the job roles involved in the field of threat intelligence. This program differentiates threat intelligence professionals from other information security professionals. It is a highly interactive, comprehensive, standards-based, intensive 3-day training program that teaches information security professionals to build professional threat intelligence.",
+    "audience": [
+      "Ethical Hackers",
+      "Security Practitioners, Engineers, Analysts, Specialist, Architects, and Managers",
+      "Threat Intelligence Analysts, Associates, Researchers, Consultants",
+      "Threat Hunters",
+      "SOC Professionals",
+      "Digital Forensic and Malware Analysts",
+      "Incident Response Team Members",
+      "Any mid-level to high-level cybersecurity professionals with a minimum of 2 years of experience.",
+      "Individuals from the information security profession and who want to enrich their skills and knowledge in the field of cyber threat intelligence.",
+      "Individuals interested in preventing cyber threats."
+    ],
+    "objective": [
+      "The course is focused on deploying and managing network servers running caching domain name service (DNS), MariaDB, Apache HTTPD, Postfix SMTP nullclients, network file sharing with network file system (NFS) and server message block (SMB), iSCSI initiators and targets, advanced networking and firewalld configurations, and the use of bash shell scripting to help automate, configure, and troubleshoot the system. Through lectures and hands-on labs, students who have already earned the RHCSA credential will be exposed to all competencies covered by the Red Hat Certified Engineer (RHCE) exam (EX300)."
+    ],
+    "prerequisites": {
+      "explanation": "",
+      "title_list": "",
+      "list": [
+        "-"
+      ]
+    },
+    "outline": [
+      {
+        "module": "Introduction to Threat Intelligence",
+        "materi": "-"
+      },
+      {
+        "module": "Cyber Threats and Kill Chain Methodology",
+        "materi": "-"
+      },
+      {
+        "module": "Requirements, Planning, Direction, and Review",
+        "materi": "-"
+      },
+      {
+        "module": "Data Collection and Processing",
+        "materi": "-"
+      },
+      {
+        "module": "Data Analysis",
+        "materi": "-"
+      },
+      {
+        "module": "Intelligence Reporting and Dissemination",
+        "materi": "-"
+      }
+    ],
+    "thumbnail": "https://res.cloudinary.com/ganbate/image/upload/v1600060947/Metrodata%20Academy/training/ms_power_point.jpg"
+  },
+  "ECSA": {
+    "_id": 87,
+    "id": "ECSA",
+    "title": "EC-Council Certified Security Analyst v10",
+    "duration": "5 Days",
+    "time": "09.00 - 17.00",
+    "price": "19.000.000",
+    "includes": [
+      {
+        "value": "Certificate of attendance",
+        "checked": true
+      },
+      {
+        "value": "Exam certification",
+        "checked": true
+      },
+      {
+        "value": "PC/Laptop",
+        "checked": true
+      }
+    ],
+    "overview": "The ECSA program offers a seamless learning progress continuing where the CEH program left off. The new ECSAv10 includes updated curricula and an industry recognized comprehensive step-bystep penetration testing methodology. This allows a learner to elevate their ability in applying new skills learned through intensive practical labs and challenges. Unlike most other pen testing programs that only follow a generic kill chain methodology; the ECSA presents a set of distinguishable comprehensive methodologies that are able to cover different pentesting requirements across different verticals. It is a highly interactive, comprehensive, standards based, intensive 5-days training program that teaches information security professionals how professional real-life penetration testing are conducted. Building on the knowledge, skills and abilities covered in the new CEH v10 program, we have simultaneously re-engineered the ECSA program as a progression from the former. Organizations today demand a professional level pentesting program and not just pentesting programs that provide training on how to hack through applications and networks. Such professional level programs can only be achieved when the core of the curricula maps with and is compliant to government and/or industry published pentesting frameworks. This course is a part of the VAPT Track of EC-Council. This is a “Professional” level course, with the Certified Ethical Hacker being the “Core” and the Licensed Penetration Tester being the “Master” level certification. In the new ECSAv10 course, students that passes the knowledge exam are given an option to pursue a fully practical exam that provides an avenue for them to test their skills, earning them the ECSA (Practical) credential. This new credential allows employers to validate easily the skills of the student.",
+    "audience": [
+      "Ethical Hackers",
+      "Penetration Testers",
+      "Security Analysts",
+      "Security Engineers",
+      "Network Server Administrators",
+      "Firewall Administrators",
+      "Security Testers",
+      "System Administrators",
+      "Risk Assessment Professionals"
+    ],
+    "objective": [
+      "-"
+    ],
+    "prerequisites": {
+      "explanation": "",
+      "title_list": "",
+      "list": [
+        "-"
+      ]
+    },
+    "outline": [
+      {
+        "module": "Introduction to Penetration Testing and Methodologies",
+        "materi": "-"
+      },
+      {
+        "module": "Penetration Testing Scoping and Engagement Methodology",
+        "materi": "-"
+      },
+      {
+        "module": "Open Source Intelligence (OSINT) Methodology",
+        "materi": "-"
+      },
+      {
+        "module": "Social Engineering Penetration Testing Methodology",
+        "materi": "-"
+      },
+      {
+        "module": "Network Penetration Testing Methodology - External",
+        "materi": "-"
+      },
+      {
+        "module": "Network Penetration Testing Methodology - Internal",
+        "materi": "-"
+      },
+      {
+        "module": "Network Penetration Testing Methodology - Perimeter Devices",
+        "materi": "-"
+      },
+      {
+        "module": "Web Application Penetration Testing Methodology",
+        "materi": "-"
+      },
+      {
+        "module": "Database Penetration Testing Methodology",
+        "materi": "-"
+      },
+      {
+        "module": "Wireless Penetration Testing Methodology",
+        "materi": "-"
+      },
+      {
+        "module": "Cloud Penetration Testing Methodology",
+        "materi": "-"
+      },
+      {
+        "module": "Report Writing and Post Testing Actions",
+        "materi": "-"
+      }
+    ],
+    "thumbnail": "https://res.cloudinary.com/ganbate/image/upload/v1600060947/Metrodata%20Academy/training/ms_power_point.jpg"
+  },
+  "CCISO": {
+    "_id": 88,
+    "id": "CCISO",
+    "title": "Certified Chief Information Security Officer",
+    "duration": "4 Days",
+    "time": "09.00 - 17.00",
+    "price": "By Request",
+    "includes": [
+      {
+        "value": "Certificate of attendance",
+        "checked": true
+      },
+      {
+        "value": "Exam certification",
+        "checked": true
+      },
+      {
+        "value": "PC/Laptop",
+        "checked": true
+      }
+    ],
+    "overview": "EC-Council’s CCISO Program has certified leading information security professionals around the world. A core group of high-level information security executives, the CCISO Advisory Board, contributed by forming the foundation of the program and outlining the content that would be covered by the exam, body of knowledge, and training. Some members of the Board contributed as authors, others as exam writers, others as quality assurance checks, and still others as trainers. Each segment of the program was developed with the aspiring CISO in mind and looks to transfer the knowledge of seasoned professionals to the next generation in the areas that are most critical in the development and maintenance of a successful information security program. The Certified CISO (CCISO) program is the first of its kind training and certification program aimed at producing top-level information security executives. The CCISO does not focus solely on technical knowledge but on the application of information security management principles from an executive management point of view. The program was developed by sitting CISOs for current and aspiring CISOs. In order to sit for the CCISO exam and earn the certification, candidates must meet the basic CCISO requirements. Candidates who do not yet meet the CCISO requirements but are interested in information security management can pursue the EC-Council Information Security Management (EISM) certification.",
+    "audience": [
+      "Governance (Policy, Legal & Compliance)",
+      "IS Management Controls and Auditing Management (Projects, Technology & Operations).",
+      "Management – Projects and Operations",
+      "Information Security Core Competencies.",
+      "Strategic Planning & Finance"
+    ],
+    "objective": [
+      "-"
+    ],
+    "prerequisites": {
+      "explanation": "",
+      "title_list": "",
+      "list": [
+        "-"
+      ]
+    },
+    "outline": [
+      {
+        "module": "Governance and Risk Management",
+        "materi": "-"
+      },
+      {
+        "module": "Information Securit Controls, Compliance and Audit Management",
+        "materi": "-"
+      },
+      {
+        "module": "Security Program Management & Operations",
+        "materi": "-"
+      },
+      {
+        "module": "Information Security Core Competencies",
+        "materi": "-"
+      },
+      {
+        "module": "Strategic Planning, Finance, Procurement,  and Vendor Management",
+        "materi": "-"
+      }
+    ],
+    "thumbnail": "https://res.cloudinary.com/ganbate/image/upload/v1600060947/Metrodata%20Academy/training/ms_power_point.jpg"
   }
 }

@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "name": "Wiliam Syah",
+      "job": "ICBC Indonesia",
+      "training": "Software Developer",
+      "quote": "Metrodata Training ini sangat menarik. Contoh-contoh yang diterangkan sangat mudah dimengerti. Saya sangat puas dengan servicenya.",
+      "image": "https://res.cloudinary.com/ganbate/image/upload/v1600054721/Metrodata%20Academy/testimoni/wiliam_syah.jpg"
+    },
+    {
+      "name": "Aris Suwondo",
+      "job": "Badan Meteorologi, Klimatologi dan Geofisika",
+      "training": "Training Oracle",
+      "quote": "MII have a qualified trainer. Good work!!!",
+      "image": "https://res.cloudinary.com/ganbate/image/upload/v1600054721/Metrodata%20Academy/testimoni/aris_suwondo.jpg"
+    },
+    {
+      "name": "Nanang Kurniawan",
+      "job": "PT Bank Syariah Mandiri",
+      "training": "Training CEH",
+      "quote": "Overall Training, materinya, slidenya dan trainernya bagus. tapi berhubung harus dilakukan secara online kendalanya hanya di koneksi internet aja yang suka putus-putus, mudah-mudahan next training bisa secara offline/inclass biar lebih seru lagi... Thx U Michael and Team",
+      "image": "https://res.cloudinary.com/ganbate/image/upload/v1600054721/Metrodata%20Academy/testimoni/nanang_kurniawan.jpg"
+    },
+    {
+      "name": "Heinz MD Siahan",
+      "job": "Asuransi Astra Buana",
+      "training": "IT Core System Staff",
+      "quote": "Training yang membuka wawasan dengan trainer yang informatif dan bersahabat serta didukung oleh situasi pelatihan yang kondusif membuat peserta dapat memiliki lebih dari sekedar pelatihan pada umumnya.",
+      "image": "https://res.cloudinary.com/ganbate/image/upload/v1600054721/Metrodata%20Academy/testimoni/heinz_md_siahan.jpg"
+    },
+    {
+      "name": "Haerul Umar",
+      "job": "PT Bank Syariah Mandiri",
+      "training": "Training CEH",
+      "quote": "Training di MII mantab..walaupun online tp bisa interaktif dan pengajar pun menjelaskan materi yang mudah dimengerti",
+      "image": "https://res.cloudinary.com/ganbate/image/upload/v1600054721/Metrodata%20Academy/testimoni/haerul_umar.jpg"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "overview": "Penetapan (configuring) system settings di sistem operasi Red Hat Enterprise Linux 7 (RHEL 7) biasanya dilakukan pada saat awal instalasi. Namun seringkali perubahan pada system settings perlu dilakukan setelah instalasi. RHEL 7 memiliki mekanisme baru untuk penetapan beberapa system settings. Mekanisme itu adalah terintegrasinya penetapan system settings dengan systemd pada saat instalasi dan setelah instalasi.",
+      "thumbnail": "https://res.cloudinary.com/ganbate/image/upload/v1600422977/Metrodata%20Academy/news/Artikel-01.jpg"
+    },
+    {
+      "overview": "Red Hat Enterprise Linux 7 (RHEL 7) memperkenalkan kerangka-kerja baru untuk pembuatan konfigurasi koneksi jaringan yang disebut dengan NetworkManager. Pengembangan NetworkManager dimulai sejak tahun 2004 yang bertujuan untuk mempermudah pembuatan konfigurasi koneksi jaringan ketika teknologi perangkat keras jaringan semakin beragam dan kompleks. Saat ini perangkat keras jaringan bisa berupa perangkat keras jaringan berbasis kabel dan nirkabel.",
+      "thumbnail": "https://res.cloudinary.com/ganbate/image/upload/v1600422977/Metrodata%20Academy/news/Artikel-02.jpg"
+    },
+    {
+      "overview": "Saat ini, kebutuhan terhadap server yang memiliki antar-muka jaringan dengan kecepatan transfer data (throughput) yang tinggi sudah tidak terhindari lagi. Hal ini dipicu oleh semakin banyak dan beragamnya perangkat elektronik yang terhubung melalui jaringan Internet. Kecepatan transfer data Ethernet saat ini telah mencapai 10/100/1000 Gbps namun seringkali belum bisa memenuhi kebutuhan transfer data yang semakin tinggi. Link aggregation adalah sebuah metode yang dikembangkan untuk meningkatkan kecepatan transfer data melebihi kecepatan transfer data yang dimiliki oleh satu antar-muka jaringan.",
+      "thumbnail": "https://res.cloudinary.com/ganbate/image/upload/v1600422977/Metrodata%20Academy/news/Artikel-03.jpg"
+    },
+    {
+      "overview": "Firewall telah lama menjadi benteng pertahanan terdepan dalam keamanan jaringan. Firewall adalah perangkat keamanan yang berfungsi menyaring paket-paket Internet Protocol (IP) yang keluar dan masuk di jaringan internal (IP packet filtering). Firewall akan memutuskan untuk meneruskan (allow) atau menolak (deny) paket-paket IP tertentu sesuai dengan aturan-aturan keamanan (firewall rules) yang telah dibuat. Firewall menjadi pemisah antara jaringan internal dan jaringan eksternal yang bisa menjadi sumber ancaman.",
+      "thumbnail": "https://res.cloudinary.com/ganbate/image/upload/v1600060948/Metrodata%20Academy/news/Artikel-04.jpg"
+    }
+  ]
+}
