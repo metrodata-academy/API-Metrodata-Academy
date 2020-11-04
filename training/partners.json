@@ -2,35 +2,43 @@
   "data": [
     {
       "alt": "Logo Oracle",
-      "image": "https://res.cloudinary.com/ganbate/image/upload/v1600053571/Metrodata%20Academy/logo_partner/logo_oracle.png"
+      "image": "https://res.cloudinary.com/ganbate/image/upload/v1600053571/Metrodata%20Academy/logo_partner/logo_oracle.png",
+      "url": "https://www.oracle.com/id/index.html"
     },
     {
       "alt": "Logo Microsoft",
-      "image": "https://res.cloudinary.com/ganbate/image/upload/v1600053571/Metrodata%20Academy/logo_partner/logo_microsoft.png"
+      "image": "https://res.cloudinary.com/ganbate/image/upload/v1600053571/Metrodata%20Academy/logo_partner/logo_microsoft.png",
+      "url": "https://partner.microsoft.com/en-US/"
     },
     {
       "alt": "Logo CompTia",
-      "image": "https://res.cloudinary.com/ganbate/image/upload/v1600053571/Metrodata%20Academy/logo_partner/logo_comptia.png"
+      "image": "https://res.cloudinary.com/ganbate/image/upload/v1600053571/Metrodata%20Academy/logo_partner/logo_comptia.png",
+      "url": "https://www.comptia.org/home"
     },
     {
       "alt": "Logo Csa",
-      "image": "https://res.cloudinary.com/ganbate/image/upload/v1600053571/Metrodata%20Academy/logo_partner/logo_csa.png"
+      "image": "https://res.cloudinary.com/ganbate/image/upload/v1600053571/Metrodata%20Academy/logo_partner/logo_csa.png",
+      "url": "https://cloudsecurityalliance.org/"
     },
     {
       "alt": "Logo Ec Council",
-      "image": "https://res.cloudinary.com/ganbate/image/upload/v1600053571/Metrodata%20Academy/logo_partner/logo_eccouncil.png"
+      "image": "https://res.cloudinary.com/ganbate/image/upload/v1600053571/Metrodata%20Academy/logo_partner/logo_eccouncil.png",
+      "url": "https://www.eccouncil.org/"
     },
     {
       "alt": "Logo Quint",
-      "image": "https://res.cloudinary.com/ganbate/image/upload/c_scale,h_100/v1600053570/Metrodata%20Academy/logo_partner/logo_quint.png"
+      "image": "https://res.cloudinary.com/ganbate/image/upload/c_scale,h_100/v1600053570/Metrodata%20Academy/logo_partner/logo_quint.png",
+      "url": "https://www.quintgroup.com/en/training/"
     },
     {
       "alt": "Logo Red Hat",
-      "image": "https://res.cloudinary.com/ganbate/image/upload/v1600053571/Metrodata%20Academy/logo_partner/logo_redhat.png"
+      "image": "https://res.cloudinary.com/ganbate/image/upload/v1600053571/Metrodata%20Academy/logo_partner/logo_redhat.png",
+      "url": "https://www.redhat.com/en"
     },
     {
       "alt": "Logo Bmc",
-      "image": "https://res.cloudinary.com/ganbate/image/upload/v1600053571/Metrodata%20Academy/logo_partner/logo_bmc.png"
+      "image": "https://res.cloudinary.com/ganbate/image/upload/v1600053571/Metrodata%20Academy/logo_partner/logo_bmc.png",
+      "url": "https://www.bmc.com/"
     }
   ]
 }
