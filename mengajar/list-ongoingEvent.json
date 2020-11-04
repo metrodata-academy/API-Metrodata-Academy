@@ -1,0 +1,14 @@
+{
+    "data": [
+        {
+            "image": "https://i.ibb.co/KydpyMV/Whats-App-Image-2020-10-01-at-1-05-25-PM.jpg",
+            "speaker": "Aryo Trikarsono",
+            "time": "14.00-16.00",
+            "date": "07 Oktober 2020",
+            "title": "Microsoft Power Platform",
+            "detail":
+              "Webinar kali ini membahas tentang perkenalan Power BI, Mobile Reporting, Power Apps, dan Pengembangan Aplikasi Mobile di Platform Office 365 ",
+            "isDisabled": false
+          }
+    ]
+}
