@@ -2,14 +2,14 @@
     "data": [
         {
             "idImage": "imgForMahasiswa",
-            "link": "/metrodata_academy/metrodata_internship",
+            "link": "/metrodata_internship",
             "title": "Metrodata Developer Internship",
             "content":
               "Program ini merupakan program magang Developer berdurasi 2 Semester."
           },
           {
             "idImage": "imgForDosen",
-            "link": "/metrodata_academy/metrodata_internship",
+            "link": "/metrodata_internship",
             "title": "Metrodata Join Curriculum",
             "content":
               "Program ini merupakan bentuk kolaborasi Metrodata dengan Kampus MoU dalam bentuk pembukaan matakuliah, untuk mempersiapkan tenaga IT yang siap kerja."
