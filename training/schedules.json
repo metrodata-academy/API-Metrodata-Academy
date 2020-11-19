@@ -9,7 +9,8 @@
       "title": "Instalation Storage and Compute with Windows Server 2016",
       "location": "Online",
       "start": "2020-11-16",
-      "end": "2020-11-20"
+      "end": "2020-11-20",
+      "available": false
     },
     {
       "id": "2",
