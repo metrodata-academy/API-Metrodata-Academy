@@ -179,6 +179,42 @@
       "location": "Online",
       "start": "2020-11-23",
       "end": "2020-11-23"
+    },
+    {
+      "id": "27",
+      "calendarId": "1",
+      "category": "time",
+      "isVisible": true,
+      "isAllDay": true,
+      "body": "20486-D",
+      "title": "Developing ASP.NET Core MVC Web Applications",
+      "location": "Online",
+      "start": "2020-12-7",
+      "end": "2020-12-11"
+    },
+    {
+      "id": "28",
+      "calendarId": "1",
+      "category": "time",
+      "isVisible": true,
+      "isAllDay": true,
+      "body": "MS030T00",
+      "title": "Office 365 Administrator",
+      "location": "Online",
+      "start": "2020-12-14",
+      "end": "2020-12-18"
+    },
+    {
+      "id": "29",
+      "calendarId": "1",
+      "category": "time",
+      "isVisible": true,
+      "isAllDay": true,
+      "body": "DO180",
+      "title": "Red Hat OpenShift I: Containers & Kubernetes",
+      "location": "Online",
+      "start": "2020-11-30",
+      "end": "2020-12-2"
     }
   ]
 }
