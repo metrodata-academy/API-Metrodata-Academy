@@ -1,0 +1,16 @@
+{
+    "data": [
+        {
+            "idImage": "imgForMCC",
+            "link": "/metrodata_itcamp/mcc",
+            "title": "Coding Camp",
+            "content": "Program belajar intensif untuk menjadi seorang fullstack developer bersama dengan Profesional Trainer."
+          },
+          {
+            "idImage": "imgForSC",
+            "link": "/metrodata_itcamp/security_camp",
+            "title": "Security Camp",
+            "content": "Program belajar intensif untuk menjadi seorang IT Security yang bekerjasama dengan EC-Council untuk mejadikan lulusan yang bersertifikasi."
+          }
+    ]
+}
