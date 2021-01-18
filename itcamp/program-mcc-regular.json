@@ -13,7 +13,7 @@
             }
         },
         {
-            "program": "dotnet",
+            "program": ".net",
             "name": "Bootcamp .Net",
             "resume": "Program ini akan memberimu training untuk menjadi seorang programmer .Net.",
             "logo": "https://i.ibb.co/PYXWTTv/dotnet.png",
